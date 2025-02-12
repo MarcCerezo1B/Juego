@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"E:\\github\\Juego\\Penguin\\Intermediate\\Source\\Penguin.Build.cs",
+		"E:\\github\\Juego\\Penguin\\Intermediate\\Source\\Penguin.Target.cs",
+		"E:\\github\\Juego\\Penguin\\Intermediate\\Source\\PenguinClient.Target.cs",
+		"E:\\github\\Juego\\Penguin\\Intermediate\\Source\\PenguinEditor.Target.cs",
+		"E:\\github\\Juego\\Penguin\\Intermediate\\Source\\PenguinServer.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

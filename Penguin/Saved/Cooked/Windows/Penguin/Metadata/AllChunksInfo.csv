@@ -1,0 +1,1222 @@
+ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
+0,/ACLPlugin/ACLAnimBoneCompressionSettings,/Script/Engine.AnimBoneCompressionSettings,Hard,1078,None
+0,/ACLPlugin/ACLAnimCurveCompressionSettings,/Script/Engine.AnimCurveCompressionSettings,Hard,1347,None
+0,/ControlRig/Controls/ControlRig_Arrow2_1mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Arrow2_1mm,19229,None
+0,/ControlRig/Controls/ControlRig_Arrow2_3mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Arrow2_3mm,19351,None
+0,/ControlRig/Controls/ControlRig_Arrow2_solid,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Arrow2_solid,13781,None
+0,/ControlRig/Controls/ControlRig_Arrow4_1mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Arrow4_1mm,35537,None
+0,/ControlRig/Controls/ControlRig_Arrow4_3mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Arrow4_3mm,35659,None
+0,/ControlRig/Controls/ControlRig_Arrow4_solid,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Arrow4_solid,24033,None
+0,/ControlRig/Controls/ControlRig_Arrow_1mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Arrow_1mm,16880,None
+0,/ControlRig/Controls/ControlRig_Arrow_3mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Arrow_3mm,17002,None
+0,/ControlRig/Controls/ControlRig_Arrow_solid,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Arrow_solid,13448,None
+0,/ControlRig/Controls/ControlRig_Box_1mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Box_1mm,217244,None
+0,/ControlRig/Controls/ControlRig_Box_3mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Box_3mm,113448,None
+0,/ControlRig/Controls/ControlRig_Box_solid,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Box_solid,25104,None
+0,/ControlRig/Controls/ControlRig_Circle_1mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Circle_1mm,51137,None
+0,/ControlRig/Controls/ControlRig_Circle_3mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Circle_3mm,50503,None
+0,/ControlRig/Controls/ControlRig_Circle_solid,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Circle_solid,31725,None
+0,/ControlRig/Controls/ControlRig_Diamond_1mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Diamond_1mm,464104,None
+0,/ControlRig/Controls/ControlRig_Diamond_3mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Diamond_3mm,302566,None
+0,/ControlRig/Controls/ControlRig_Diamond_solid,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Diamond_solid,32652,None
+0,/ControlRig/Controls/ControlRig_HalfCircle_1mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_HalfCircle_1mm,30421,None
+0,/ControlRig/Controls/ControlRig_HalfCircle_3mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_HalfCircle_3mm,30051,None
+0,/ControlRig/Controls/ControlRig_HalfCircle_solid,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_HalfCircle_solid,19233,None
+0,/ControlRig/Controls/ControlRig_Hexagon_1mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Hexagon_1mm,16180,None
+0,/ControlRig/Controls/ControlRig_Hexagon_3mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Hexagon_3mm,16302,None
+0,/ControlRig/Controls/ControlRig_Hexagon_solid,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Hexagon_solid,13204,None
+0,/ControlRig/Controls/ControlRig_Octagon_1mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Octagon_1mm,20584,None
+0,/ControlRig/Controls/ControlRig_Octagon_3mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Octagon_3mm,20706,None
+0,/ControlRig/Controls/ControlRig_Octagon_solid,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Octagon_solid,16696,None
+0,/ControlRig/Controls/ControlRig_Pyramid_1mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Pyramid_1mm,292680,None
+0,/ControlRig/Controls/ControlRig_Pyramid_3mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Pyramid_3mm,186690,None
+0,/ControlRig/Controls/ControlRig_Pyramid_solid,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Pyramid_solid,14982,None
+0,/ControlRig/Controls/ControlRig_QuarterCircle_1mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_QuarterCircle_1mm,20064,None
+0,/ControlRig/Controls/ControlRig_QuarterCircle_3mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_QuarterCircle_3mm,18822,None
+0,/ControlRig/Controls/ControlRig_QuarterCircle_solid,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_QuarterCircle_solid,10512,None
+0,/ControlRig/Controls/ControlRig_RoundedSquare_1mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_RoundedSquare_1mm,73178,None
+0,/ControlRig/Controls/ControlRig_RoundedSquare_3mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_RoundedSquare_3mm,82164,None
+0,/ControlRig/Controls/ControlRig_RoundedSquare_solid,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_RoundedSquare_solid,42506,None
+0,/ControlRig/Controls/ControlRig_RoundedTriangle_1mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_RoundedTriangle_1mm,42304,None
+0,/ControlRig/Controls/ControlRig_RoundedTriangle_3mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_RoundedTriangle_3mm,44714,None
+0,/ControlRig/Controls/ControlRig_RoundedTriangle_solid,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_RoundedTriangle_solid,24768,None
+0,/ControlRig/Controls/ControlRig_Sphere_1mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Sphere_1mm,317073,None
+0,/ControlRig/Controls/ControlRig_Sphere_3mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Sphere_3mm,256163,None
+0,/ControlRig/Controls/ControlRig_Sphere_solid,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Sphere_solid,149433,None
+0,/ControlRig/Controls/ControlRig_Square_1mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Square_1mm,14941,None
+0,/ControlRig/Controls/ControlRig_Square_3mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Square_3mm,15575,None
+0,/ControlRig/Controls/ControlRig_Square_solid,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Square_solid,13517,None
+0,/ControlRig/Controls/ControlRig_Star4_1mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Star4_1mm,20430,None
+0,/ControlRig/Controls/ControlRig_Star4_3mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Star4_3mm,20552,None
+0,/ControlRig/Controls/ControlRig_Star4_solid,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Star4_solid,16542,None
+0,/ControlRig/Controls/ControlRig_Triangle_1mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Triangle_1mm,10895,None
+0,/ControlRig/Controls/ControlRig_Triangle_3mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Triangle_3mm,10895,None
+0,/ControlRig/Controls/ControlRig_Triangle_solid,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Triangle_solid,9415,None
+0,/ControlRig/Controls/ControlRig_Wedge_1mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Wedge_1mm,251090,None
+0,/ControlRig/Controls/ControlRig_Wedge_3mm,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Wedge_3mm,239170,None
+0,/ControlRig/Controls/ControlRig_Wedge_solid,/Script/Engine.StaticMesh,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRig_Wedge_solid,110280,None
+0,/ControlRig/Controls/ControlRigGizmoMaterial,/Script/Engine.Material,Soft: /ControlRig/Controls/DefaultGizmoLibraryNormalized->/ControlRig/Controls/ControlRigGizmoMaterial,7316,None
+0,/ControlRig/Controls/ControlRigXRayMaterial,/Script/Engine.Material,Hard,13269,None
+0,/ControlRig/Controls/DefaultGizmoLibraryNormalized,/Script/ControlRig.ControlRigShapeLibrary,Hard,11534,None
+0,/ControlRig/M_Manip,/Script/Engine.Material,Hard,13156,None
+0,/Engine/Animation/DefaultRecorderBoneCompression,/Script/Engine.AnimBoneCompressionSettings,Hard,1034,None
+0,/Engine/Animation/DefaultVariableFrameStrippingSettings,/Script/Engine.VariableFrameStrippingSettings,Hard,772,None
+0,/Engine/ArtTools/RenderToTexture/MaterialFunctions/CheckerPattern,/Script/Engine.MaterialFunction,Hard,792,None
+0,/Engine/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane,/Script/Engine.StaticMesh,Hard,7303,None
+0,/Engine/BasicShapes/BasicShapeMaterial,/Script/Engine.Material,Hard,59684,None
+0,/Engine/BasicShapes/Cone,/Script/Engine.StaticMesh,Hard,156382,None
+0,/Engine/BasicShapes/Cube,/Script/Engine.StaticMesh,Hard,133973,None
+0,/Engine/BasicShapes/Cylinder,/Script/Engine.StaticMesh,Hard,186213,None
+0,/Engine/BasicShapes/Plane,/Script/Engine.StaticMesh,Hard,10760,None
+0,/Engine/BasicShapes/Sphere,/Script/Engine.StaticMesh,Hard,221409,None
+0,/Engine/EditorLandscapeResources/DataLayer,/Script/Landscape.LandscapeLayerInfoObject,Hard,750,None
+0,/Engine/EditorLandscapeResources/DefaultAlphaTexture,/Script/Engine.Texture2D,Hard,23111,None
+0,/Engine/EditorLandscapeResources/SplineEditorMesh,/Script/Engine.StaticMesh,Hard,12469,None
+0,/Engine/EditorLandscapeResources/SplineEditorMeshMat,/Script/Engine.Material,Hard,15897,None
+0,/Engine/EditorMaterials/Camera/CineMat,/Script/Engine.Material,Hard,23118,None
+0,/Engine/EditorMaterials/Camera/MI_CineMat_Rig,/Script/Engine.MaterialInstanceConstant,Hard,946,None
+0,/Engine/EditorMaterials/Dataflow/DataflowVertexMaterial,/Script/Engine.Material,Hard,23087,None
+0,/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage,/Script/Engine.Texture2D,Hard,45103,None
+0,/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_OOD,/Script/Engine.Texture2D,Hard,23199,None
+0,/Engine/EditorMaterials/PhAT_NoCollisionMaterial,/Script/Engine.Material,Hard,8243,None
+0,/Engine/EditorMaterials/PhAT_UnselectedMaterial,/Script/Engine.Material,Hard,8240,None
+0,/Engine/EditorMaterials/PreviewShadowIndicator,/Script/Engine.Texture2D,Hard,1399557,None
+0,/Engine/EditorMaterials/PreviewShadowIndicatorMaterial,/Script/Engine.Material,Hard,43917,None
+0,/Engine/EditorMaterials/Thumbnails/SkySphereMaterial,/Script/Engine.Material,Hard,22725,None
+0,/Engine/EditorMeshes/Camera/SM_CraneRig_Arm,/Script/Engine.StaticMesh,Hard,6361,None
+0,/Engine/EditorMeshes/Camera/SM_CraneRig_Base,/Script/Engine.StaticMesh,Hard,168040,None
+0,/Engine/EditorMeshes/Camera/SM_CraneRig_Body,/Script/Engine.StaticMesh,Hard,189147,None
+0,/Engine/EditorMeshes/Camera/SM_CraneRig_Mount,/Script/Engine.StaticMesh,Hard,26595,None
+0,/Engine/EditorMeshes/Camera/SM_RailRig_Mount,/Script/Engine.StaticMesh,Hard,161824,None
+0,/Engine/EditorMeshes/Camera/SM_RailRig_Track,/Script/Engine.StaticMesh,Hard,138054,None
+0,/Engine/EditorMeshes/ColorCalibrator/Color_checker,/Script/Engine.Texture2D,Hard,176221,None
+0,/Engine/EditorMeshes/ColorCalibrator/M_ChromeBall,/Script/Engine.Material,Hard,29848,None
+0,/Engine/EditorMeshes/ColorCalibrator/M_ClearCoat,/Script/Engine.Material,Hard,21520,None
+0,/Engine/EditorMeshes/ColorCalibrator/M_ClearCoatBlack,/Script/Engine.Material,Hard,21526,None
+0,/Engine/EditorMeshes/ColorCalibrator/M_ColorGrid,/Script/Engine.Material,Hard,30208,None
+0,/Engine/EditorMeshes/ColorCalibrator/M_GreyBall,/Script/Engine.Material,Hard,29839,None
+0,/Engine/EditorMeshes/ColorCalibrator/SM_ColorCalibrator,/Script/Engine.StaticMesh,Hard,3417781,None
+0,/Engine/EditorMeshes/ColorCalibrator/T_ColorGrid,/Script/Engine.Texture2D,Hard,176215,None
+0,/Engine/EditorResources/BSPVertex,/Script/Engine.Texture2D,Hard,1475,None
+0,/Engine/EditorResources/EmptyActor,/Script/Engine.Texture2D,Hard,350888,None
+0,/Engine/EditorResources/S_Actor,/Script/Engine.Texture2D,Hard,88656,None
+0,/Engine/EditorResources/S_BoxReflectionCapture,/Script/Engine.Texture2D,Hard,350924,None
+0,/Engine/EditorResources/S_Solver,/Script/Engine.Texture2D,Hard,350879,None
+0,/Engine/EditorResources/S_Terrain,/Script/Engine.Texture2D,Hard,350882,None
+0,/Engine/EditorResources/S_Trigger,/Script/Engine.Texture2D,Hard,350882,None
+0,/Engine/EditorResources/S_TriggerBox,/Script/Engine.Texture2D,Hard,350894,None
+0,/Engine/EditorResources/S_TriggerCapsule,/Script/Engine.Texture2D,Hard,350906,None
+0,/Engine/EditorResources/S_TriggerSphere,/Script/Engine.Texture2D,Hard,350903,None
+0,/Engine/EditorResources/SequenceRecorder/Countdown,/Script/Engine.Texture2D,Hard,148363,None
+0,/Engine/EditorResources/SequenceRecorder/RecordingIndicator,/Script/Engine.Texture2D,Hard,1958,None
+0,/Engine/EngineDamageTypes/DmgTypeBP_Environmental,/Script/Engine.Blueprint,Hard,1242,None
+0,/Engine/EngineDamageTypes/DmgTypeBP_Environmental,/Script/Engine.BlueprintGeneratedClass,Hard,1242,None
+0,/Engine/EngineDebugMaterials/DebugEditorMaterial,/Script/Engine.Material,Hard,10765,None
+0,/Engine/EngineDebugMaterials/DebugMeshMaterial,/Script/Engine.Material,Hard,10029,None
+0,/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent,/Script/Engine.Material,Hard,8368,None
+0,/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP,/Script/Engine.Material,Hard,11375,None
+0,/Engine/EngineDebugMaterials/VolumeToRender,/Script/Engine.VolumeTexture,Hard,8907,None
+0,/Engine/EngineFonts/Faces/DroidSansFallback,/Script/Engine.FontFace,Hard,3940623,None
+0,/Engine/EngineFonts/Faces/RobotoBold,/Script/Engine.FontFace,Hard,164165,None
+0,/Engine/EngineFonts/Faces/RobotoBoldItalic,/Script/Engine.FontFace,Hard,166613,None
+0,/Engine/EngineFonts/Faces/RobotoItalic,/Script/Engine.FontFace,Hard,161469,None
+0,/Engine/EngineFonts/Faces/RobotoLight,/Script/Engine.FontFace,Hard,171142,None
+0,/Engine/EngineFonts/Faces/RobotoRegular,/Script/Engine.FontFace,Hard,159333,None
+0,/Engine/EngineFonts/Roboto,/Script/Engine.Font,Hard,1723,None
+0,/Engine/EngineFonts/RobotoDistanceField,/Script/Engine.Font,Hard,137676,None
+0,/Engine/EngineMaterials/AntiAliasedTextMaterialTranslucent,/Script/Engine.Material,Hard,22151,None
+0,/Engine/EngineMaterials/BaseFlattenDiffuseMap,/Script/Engine.Texture2D,Hard,1902,None
+0,/Engine/EngineMaterials/BaseFlattenDiffuseMap_VT,/Script/Engine.Texture2D,Hard,1914,None
+0,/Engine/EngineMaterials/BaseFlattenEmissiveMap,/Script/Engine.Texture2D,Hard,1902,None
+0,/Engine/EngineMaterials/BaseFlattenEmissiveMap_VT,/Script/Engine.Texture2D,Hard,1914,None
+0,/Engine/EngineMaterials/BaseFlattenGrayscaleMap,/Script/Engine.Texture2D,Hard,2579,None
+0,/Engine/EngineMaterials/BaseFlattenGrayscaleMap_VT,/Script/Engine.Texture2D,Hard,2591,None
+0,/Engine/EngineMaterials/BaseFlattenLinearColor,/Script/Engine.Texture2D,Hard,1908,None
+0,/Engine/EngineMaterials/BaseFlattenLinearColor_VT,/Script/Engine.Texture2D,Hard,1920,None
+0,/Engine/EngineMaterials/BaseFlattenNormalMap,/Script/Engine.Texture2D,Hard,921,None
+0,/Engine/EngineMaterials/BaseFlattenNormalMap_VT,/Script/Engine.Texture2D,Hard,1527,None
+0,/Engine/EngineMaterials/Black_1x1_EXR_Texture_VT,/Script/Engine.Texture2D,Hard,940,None
+0,/Engine/EngineMaterials/BlendFunc_DefBase,/Script/Engine.Texture2D,Hard,1499,None
+0,/Engine/EngineMaterials/BlendFunc_DefBlend,/Script/Engine.Texture2D,Hard,1502,None
+0,/Engine/EngineMaterials/DefaultBloomKernel,/Script/Engine.Texture2D,Hard,33555345,None
+0,/Engine/EngineMaterials/DefaultBokeh,/Script/Engine.Texture2D,Hard,23094,None
+0,/Engine/EngineMaterials/DefaultCalibrationColor,/Script/Engine.Texture2D,Hard,1037712,None
+0,/Engine/EngineMaterials/DefaultCalibrationGrayscale,/Script/Engine.Texture2D,Hard,8295335,None
+0,/Engine/EngineMaterials/DefaultDeferredDecalMaterial,/Script/Engine.Material,Hard,63049,None
+0,/Engine/EngineMaterials/DefaultDestructiblePhysicalMaterial,/Script/PhysicsCore.PhysicalMaterial,Hard,759,None
+0,/Engine/EngineMaterials/DefaultDiffuse,/Script/Engine.Texture2D,Hard,700546,None
+0,/Engine/EngineMaterials/DefaultLightFunctionMaterial,/Script/Engine.Material,Hard,42558,None
+0,/Engine/EngineMaterials/DefaultMaterial,/Script/Engine.Material,Hard,86216,None
+0,/Engine/EngineMaterials/DefaultPhysicalMaterial,/Script/PhysicsCore.PhysicalMaterial,Hard,719,None
+0,/Engine/EngineMaterials/DefaultPostProcessMaterial,/Script/Engine.Material,Hard,10351,None
+0,/Engine/EngineMaterials/DefaultTextMaterialOpaque,/Script/Engine.Material,Hard,29082,None
+0,/Engine/EngineMaterials/DefaultWhiteGrid,/Script/Engine.Texture2D,Hard,12244,None
+0,/Engine/EngineMaterials/DefaultWhiteGrid_Low,/Script/Engine.Texture2D,Hard,912,None
+0,/Engine/EngineMaterials/EmissiveMeshMaterial,/Script/Engine.Material,Hard,10486,None
+0,/Engine/EngineMaterials/FlattenMaterial,/Script/Engine.Material,Hard,45284,None
+0,/Engine/EngineMaterials/FlattenMaterial_VT,/Script/Engine.Material,Hard,45294,None
+0,/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT,/Script/Engine.Material,Hard,45327,None
+0,/Engine/EngineMaterials/GizmoMaterial,/Script/Engine.Material,Hard,10484,None
+0,/Engine/EngineMaterials/Good64x64TilingNoiseHighFreq,/Script/Engine.Texture2D,Hard,5025,None
+0,/Engine/EngineMaterials/InvalidLightmapSettings,/Script/Engine.Texture2D,Hard,176225,None
+0,/Engine/EngineMaterials/M_InvalidLightmapSettings,/Script/Engine.Material,Hard,23378,None
+0,/Engine/EngineMaterials/MiniFont,/Script/Engine.Texture2D,Hard,2914,None
+0,/Engine/EngineMaterials/NaniteHiddenSectionMaterial,/Script/Engine.Material,Hard,27126,None
+0,/Engine/EngineMaterials/PhAT_JointLimitMaterial,/Script/Engine.Material,Hard,13259,None
+0,/Engine/EngineMaterials/PPM_DefaultCalibrationColor,/Script/Engine.Material,Hard,8261,None
+0,/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale,/Script/Engine.Material,Hard,8278,None
+0,/Engine/EngineMaterials/PreintegratedSkinBRDF,/Script/Engine.Texture2D,Hard,263055,None
+0,/Engine/EngineMaterials/RemoveSurfaceMaterial,/Script/Engine.Material,Hard,7015,None
+0,/Engine/EngineMaterials/STBlueNoise_scalar_128x128x64,/Script/Engine.Texture2D,Hard,1049508,None
+0,/Engine/EngineMaterials/STBlueNoise_vec2_128x128x64,/Script/Engine.Texture2D,Hard,4195242,None
+0,/Engine/EngineMaterials/Substrate/GLints/AGlintTex2dArray,/Script/Engine.Texture2DArray,Hard,1041688,None
+0,/Engine/EngineMaterials/Substrate/Glints2/AGlintTex2dArray2,/Script/Engine.Texture2DArray,Hard,2082073,None
+0,/Engine/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeEnvLUT3D,/Script/Engine.VolumeTexture,Hard,2903,None
+0,/Engine/EngineMaterials/Substrate/Volume/SubstrateSimpleVolumeLUT3D,/Script/Engine.VolumeTexture,Hard,18382,None
+0,/Engine/EngineMaterials/T_Default_Material_Grid_M,/Script/Engine.Texture2D,Hard,351010,None
+0,/Engine/EngineMaterials/T_Default_Material_Grid_N,/Script/Engine.Texture2D,Hard,88810,None
+0,/Engine/EngineMaterials/WeightMapArrayPlaceholderTexture,/Script/Engine.Texture2DArray,Hard,964,None
+0,/Engine/EngineMaterials/WeightMapPlaceholderTexture,/Script/Engine.Texture2D,Hard,1009,None
+0,/Engine/EngineMaterials/Widget3DPassThrough,/Script/Engine.Material,Hard,9277,None
+0,/Engine/EngineMaterials/Widget3DPassThrough_Masked,/Script/Engine.MaterialInstanceConstant,Hard,20342,None
+0,/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided,/Script/Engine.MaterialInstanceConstant,Hard,20379,None
+0,/Engine/EngineMaterials/Widget3DPassThrough_Opaque,/Script/Engine.MaterialInstanceConstant,Hard,10939,None
+0,/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided,/Script/Engine.MaterialInstanceConstant,Hard,7778,None
+0,/Engine/EngineMaterials/Widget3DPassThrough_Translucent,/Script/Engine.MaterialInstanceConstant,Hard,10675,None
+0,/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided,/Script/Engine.MaterialInstanceConstant,Hard,9024,None
+0,/Engine/EngineMaterials/WorldGridMaterial,/Script/Engine.Material,Hard,526799,None
+0,/Engine/EngineMeshes/Cylinder,/Script/Engine.StaticMesh,Hard,25085,None
+0,/Engine/EngineMeshes/Sphere,/Script/Engine.StaticMesh,Hard,453173,None
+0,/Engine/EngineResources/Black,/Script/Engine.Texture2D,Hard,1835,None
+0,/Engine/EngineResources/DefaultTexture,/Script/Engine.Texture2D,Hard,12222,None
+0,/Engine/EngineResources/DefaultTextureCube,/Script/Engine.TextureCube,Hard,66906,None
+0,/Engine/EngineResources/DefaultVolumeTexture,/Script/Engine.VolumeTexture,Hard,1166,None
+0,/Engine/EngineResources/DefaultVolumeTexture2D,/Script/Engine.Texture2D,Hard,1147,None
+0,/Engine/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000,/Script/Engine.Texture2D,Hard,17331,None
+0,/Engine/EngineResources/GradientTexture0,/Script/Engine.Texture2D,Hard,6662,None
+0,/Engine/EngineResources/WhiteSquareTexture,/Script/Engine.Texture2D,Hard,1874,None
+0,/Engine/EngineSky/M_SimpleSkyDome,/Script/Engine.Material,Hard,6995,None
+0,/Engine/EngineSky/M_Sky_Panning_Clouds2,/Script/Engine.Material,Hard,11397,None
+0,/Engine/EngineSky/SM_SkySphere,/Script/Engine.StaticMesh,Hard,2109451,None
+0,/Engine/EngineSky/T_Sky_Blue,/Script/Engine.Texture2D,Hard,2797738,None
+0,/Engine/EngineSky/T_Sky_Clouds_M,/Script/Engine.Texture2D,Hard,700480,None
+0,/Engine/EngineSky/T_Sky_Stars,/Script/Engine.Texture2D,Hard,176180,None
+0,/Engine/EngineSky/VolumetricClouds/CloudGradientTexture,/Script/Engine.Texture2D,Hard,1587,None
+0,/Engine/EngineSky/VolumetricClouds/CloudWeatherTexture,/Script/Engine.Texture2D,Hard,132004,None
+0,/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud,/Script/Engine.Material,Hard,79444,None
+0,/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst,/Script/Engine.MaterialInstanceConstant,Hard,1572,None
+0,/Engine/EngineSky/VolumetricClouds/T_NoiseErosion,/Script/Engine.Texture2D,Hard,23528,None
+0,/Engine/EngineSky/VolumetricClouds/T_NoiseShape64,/Script/Engine.Texture2D,Hard,176736,None
+0,/Engine/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32,/Script/Engine.VolumeTexture,Hard,17319,None
+0,/Engine/EngineSky/VolumetricClouds/T_VolumeNoiseShape64,/Script/Engine.VolumeTexture,Hard,132001,None
+0,/Engine/EngineSounds/Master,/Script/Engine.SoundClass,Hard,648,None
+0,/Engine/EngineSounds/Submixes/MasterEQEffectPreset,/Script/AudioMixer.SubmixEffectSubmixEQPreset,Hard,741,None
+0,/Engine/EngineSounds/Submixes/MasterEQSubmixDefault,/Script/Engine.SoundSubmix,Hard,1096,None
+0,/Engine/EngineSounds/Submixes/MasterReverbEffectPreset,/Script/AudioMixer.SubmixEffectReverbPreset,Hard,749,None
+0,/Engine/EngineSounds/Submixes/MasterReverbSubmixDefault,/Script/Engine.SoundSubmix,Hard,1115,None
+0,/Engine/EngineSounds/Submixes/MasterSubmixDefault,/Script/Engine.SoundSubmix,Hard,1040,None
+0,/Engine/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient,/Script/Engine.MaterialFunction,Hard,842,None
+0,/Engine/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient,/Script/Engine.MaterialFunction,Hard,815,None
+0,/Engine/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast,/Script/Engine.MaterialFunction,Hard,859,None
+0,/Engine/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset,/Script/Engine.MaterialFunction,Hard,867,None
+0,/Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade,/Script/Engine.MaterialFunction,Hard,893,None
+0,/Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec,/Script/Engine.MaterialFunction,Hard,776,None
+0,/Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness,/Script/Engine.MaterialFunction,Hard,767,None
+0,/Engine/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal,/Script/Engine.MaterialFunction,Hard,800,None
+0,/Engine/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter,/Script/Engine.MaterialFunction,Hard,774,None
+0,/Engine/Functions/Engine_MaterialFunctions01/Volumetrics/BeersLaw,/Script/Engine.MaterialFunction,Hard,825,None
+0,/Engine/Functions/Engine_MaterialFunctions02/Math/AddComponents,/Script/Engine.MaterialFunction,Hard,831,None
+0,/Engine/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix,/Script/Engine.MaterialFunction,Hard,812,None
+0,/Engine/Functions/Engine_MaterialFunctions02/ObjectLocalBounds,/Script/Engine.MaterialFunction,Hard,754,None
+0,/Engine/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture,/Script/Engine.Texture2D,Hard,998,None
+0,/Engine/Functions/Engine_MaterialFunctions02/SafeNormalize,/Script/Engine.MaterialFunction,Hard,961,None
+0,/Engine/Functions/Engine_MaterialFunctions02/ScreenResolution,/Script/Engine.MaterialFunction,Hard,828,None
+0,/Engine/Functions/Engine_MaterialFunctions02/SplitComponents,/Script/Engine.MaterialFunction,Hard,751,None
+0,/Engine/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs,/Script/Engine.MaterialFunction,Hard,1024,None
+0,/Engine/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs,/Script/Engine.MaterialFunction,Hard,870,None
+0,/Engine/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals,/Script/Engine.MaterialFunction,Hard,931,None
+0,/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components,/Script/Engine.MaterialFunction,Hard,907,None
+0,/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components,/Script/Engine.MaterialFunction,Hard,907,None
+0,/Engine/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector,/Script/Engine.MaterialFunction,Hard,836,None
+0,/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2,/Script/Engine.MaterialFunction,Hard,815,None
+0,/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3,/Script/Engine.MaterialFunction,Hard,815,None
+0,/Engine/Functions/Engine_MaterialFunctions02/Utility/VectorLength,/Script/Engine.MaterialFunction,Hard,790,None
+0,/Engine/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW,/Script/Engine.MaterialFunction,Hard,841,None
+0,/Engine/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset,/Script/Engine.MaterialFunction,Hard,896,None
+0,/Engine/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale,/Script/Engine.MaterialFunction,Hard,883,None
+0,/Engine/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay,/Script/Engine.MaterialFunction,Hard,870,None
+0,/Engine/Functions/Engine_MaterialFunctions03/Math/RemapValueRange,/Script/Engine.MaterialFunction,Hard,853,None
+0,/Engine/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth,/Script/Engine.MaterialFunction,Hard,784,None
+0,/Engine/Maps/Entry,/Script/Engine.World,Hard,11345,None
+0,/Engine/Maps/Entry_BuiltData,/Script/Engine.MapBuildDataRegistry,Hard,24647,None
+0,/Engine/MapTemplates/Sky/DaylightAmbientCubemap,/Script/Engine.TextureCube,Hard,16778653,None
+0,/Engine/MobileResources/HUD/DefaultVirtualJoysticks,/Script/Engine.TouchInterface,Hard,1382,None
+0,/Engine/MobileResources/HUD/VirtualJoystick_Background,/Script/Engine.Texture2D,Hard,263084,None
+0,/Engine/MobileResources/HUD/VirtualJoystick_Thumb,/Script/Engine.Texture2D,Hard,17309,None
+0,/Engine/OpenWorldTemplate/HLOD/HLOD0_Instancing,/Script/Engine.HLODLayer,Hard,1049,None
+0,/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid,/Script/Engine.Material,Hard,26430,None
+0,/Engine/OpenWorldTemplate/LandscapeMaterial/MF_ProcGrid,/Script/Engine.MaterialFunction,Hard,734,None
+0,/Engine/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A,/Script/Engine.Texture2D,Hard,176241,None
+0,/Engine/VREditor/LaserPointer/VR_LaserPower_01,/Script/Engine.Texture2D,Hard,176216,None
+0,/Engine/VREditor/SnapGrid/SnapGridMaterial,/Script/Engine.Material,Hard,16565,None
+0,/Engine/VREditor/SnapGrid/SnapGridPlaneMesh,/Script/Engine.StaticMesh,Hard,4294,None
+0,/Engine/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser,/Script/Engine.SoundWave,Hard,15315,None
+0,/Engine/VREditor/Sounds/UI/Gizmo_Handle_Clicked,/Script/Engine.SoundWave,Hard,13978,None
+0,/Engine/VREditor/Sounds/UI/Object_PickUp,/Script/Engine.SoundWave,Hard,14205,None
+0,/Engine/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor,/Script/Engine.SoundWave,Hard,15123,None
+0,/Engine/VREditor/Sounds/UI/Object_Snaps_To_Grid,/Script/Engine.SoundWave,Hard,13048,None
+0,/Engine/VREditor/Sounds/UI/Scaling_Down,/Script/Engine.SoundWave,Hard,11266,None
+0,/Engine/VREditor/Sounds/UI/Scaling_Up,/Script/Engine.SoundWave,Hard,10980,None
+0,/Engine/VREditor/Sounds/UI/Selection_Changes,/Script/Engine.SoundWave,Hard,6961,None
+0,/Engine/VREditor/TransformGizmo/BoundingBoxCorner,/Script/Engine.StaticMesh,Hard,15470,None
+0,/Engine/VREditor/TransformGizmo/BoundingBoxEdge,/Script/Engine.StaticMesh,Hard,8918,None
+0,/Engine/VREditor/TransformGizmo/Main,/Script/Engine.Material,Hard,8411,None
+0,/Engine/VREditor/TransformGizmo/PlaneTranslationHandle,/Script/Engine.StaticMesh,Hard,15627,None
+0,/Engine/VREditor/TransformGizmo/RotationHandleFull,/Script/Engine.StaticMesh,Hard,193896,None
+0,/Engine/VREditor/TransformGizmo/RotationHandleIndicator,/Script/Engine.StaticMesh,Hard,21305,None
+0,/Engine/VREditor/TransformGizmo/RotationHandleQuarter,/Script/Engine.StaticMesh,Hard,59838,None
+0,/Engine/VREditor/TransformGizmo/SM_Sequencer_Node,/Script/Engine.StaticMesh,Hard,13783,None
+0,/Engine/VREditor/TransformGizmo/StartRotationHandleIndicator,/Script/Engine.StaticMesh,Hard,33202,None
+0,/Engine/VREditor/TransformGizmo/TransformGizmoFreeRotation,/Script/Engine.StaticMesh,Hard,3219865,None
+0,/Engine/VREditor/TransformGizmo/TransformGizmoMaterial,/Script/Engine.Material,Hard,7679,None
+0,/Engine/VREditor/TransformGizmo/TransformGizmoMaterial_Inst,/Script/Engine.MaterialInstanceConstant,Hard,1019,None
+0,/Engine/VREditor/TransformGizmo/TranslateArrowHandle,/Script/Engine.StaticMesh,Hard,20183,None
+0,/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial,/Script/Engine.Material,Hard,8546,None
+0,/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst,/Script/Engine.MaterialInstanceConstant,Hard,1075,None
+0,/Engine/VREditor/TransformGizmo/UniformScaleHandle,/Script/Engine.StaticMesh,Hard,15571,None
+0,/Engine/VREditor/TransformGizmo/Xray,/Script/Engine.Material,Hard,14913,None
+0,/Game/AI/BPI_Vehicle,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,2030,None
+0,/Game/AI/BPI_Vehicle,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,2030,None
+0,/Game/AI/CarAI,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,5253,None
+0,/Game/AI/CarAI,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,5253,None
+0,/Game/boostpickuptest/boostpickupv1,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,5316,None
+0,/Game/boostpickuptest/boostpickupv1,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,5316,None
+0,/Game/Level3_HLOD0_Instancing,/Script/Engine.HLODLayer,Soft: Unknown reference chain. Soft From Unassigned Package?,1020,None
+0,/Game/LevelPrototyping/Materials/M_PrototypeGrid,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,24707,None
+0,/Game/LevelPrototyping/Materials/M_Solid,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,23694,None
+0,/Game/LevelPrototyping/Materials/MF_ProcGrid,/Script/Engine.MaterialFunction,Soft: Unknown reference chain. Soft From Unassigned Package?,712,None
+0,/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,23333,None
+0,/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,23280,None
+0,/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,23902,None
+0,/Game/LevelPrototyping/Materials/MI_Solid_Blue,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,1021,None
+0,/Game/LevelPrototyping/Meshes/SM_ChamferCube,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,46684,None
+0,/Game/LevelPrototyping/Meshes/SM_Cube,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,25153,None
+0,/Game/LevelPrototyping/Meshes/SM_Cylinder,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,38141,None
+0,/Game/LevelPrototyping/Meshes/SM_QuarterCylinder,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,12396,None
+0,/Game/LevelPrototyping/Meshes/SM_Ramp,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,24359,None
+0,/Game/LevelPrototyping/Textures/T_GridChecker_A,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,176223,None
+0,/Game/Levels/Level1,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,125649082,None
+0,/Game/Levels/Level1/_Generated_/007WVSD3I9A4AHW16P3JSW9WS,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/009MQ6GZ98OZU2774S4QM0ZRY,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/081RT9JIFBDFG11XMMN09PENO,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/09XYMY5QKQ2FYLTXZXQ65B4SY,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/0LCJRGAAPEDXMTWV0FTIDLXEQ,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/0OJ395BB9KI5UTQLZLNKMKQZ4,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/19LPS6HYE8VQGR2AN938GJPFM,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601184,None
+0,/Game/Levels/Level1/_Generated_/1DJ0HUL32ABZ4U6YQUX3WARAN,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/1PWZIMYK19YJV65A3RIGU1LF6,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601184,None
+0,/Game/Levels/Level1/_Generated_/1WD6PO3ZMK98PDU6HW7HMK9PS,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/2HGJMI2OBLCI8M4KK3M4ZA39Y,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/2SO8Z8Q1RRL31HNQS7JBQSSRH,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/2Z9SNFVRAE4MU68JB83KL45MX,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/2ZRXUREO5S9AC34TSP5NSGD4F,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/31248QKYM9PCTKRO8RA3LIY3A,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/38AVTN2OGMOL2HC9CFV8R3N1J,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601184,None
+0,/Game/Levels/Level1/_Generated_/3HFNLIOR0NWM0HZUUJMAKIND7,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/3HGX9EAD9CQDTQZ24IKGMCEQQ,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/3X3SC2EV3HVCYBC2352UZRF52,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/3ZZUMWCQHB2H5Y783Z4QG54BY,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/4028PHFRJVEYKGI37I058P3M2,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/4DZE3YZJO20H9EDB5GRRMTNLM,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/4GNHSQQ7L5L4I3EI3EQ6BKH28,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,602010,None
+0,/Game/Levels/Level1/_Generated_/4L600MITAJTBT8HPWCKVV3YHO,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/54SIHFBOAO0DD1BUOQDXVO3BE,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/5B4DKCHS4D6QWSZUE6KIRKGZM,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601176,None
+0,/Game/Levels/Level1/_Generated_/5C1GDC3GOV1NWHONJYRON57KD,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/5LEFMMPWTQ9ULRU3PUFC5BAQT,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/5QHA9ZZU7DJJC203VUFE8TI9L,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/5RTK9G9DC8GT0KJSVT90WM66R,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/5UKOCGMTUC9S7YETXF990N924,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/5WSATP4AQXUXIQL7EKE3KKF66,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/61Y6NXGRRPKKZ471GQ7FKZ71H,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/6PNM33BYZEQ115CMV8WAGRY3H,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/6VE5EQV9CBRPT41UB1V7VVUYH,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/6VWZ0XMF5V243TQQ95P4NZMLU,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601176,None
+0,/Game/Levels/Level1/_Generated_/73D5FOOZRGTC6D1HPO70795H4,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/7705G4P9KG2LV3OIX3IPUS0RO,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/7YZZRAZJOSUNJPFXMURV6GY31,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/880BZLDMIKLQHGQ0EIUKBFZHW,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/8C4ZATQZD20GZ833Z59GAH1EB,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/8PCR1I34RGW0YR5CFGM61NXYK,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601154,None
+0,/Game/Levels/Level1/_Generated_/9NLS8VDGMGEVRKFGPW2V9P9TW,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/9X07OX9L4LMYVTBBZA75NM52M,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/A3GO4TM6B15C46YEJUMAC7LBP,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/A8XBVULRH1KAYWSFGXZ8AZGS6,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601176,None
+0,/Game/Levels/Level1/_Generated_/AMXO7JES5GSDJF3R741KBWEO3,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601176,None
+0,/Game/Levels/Level1/_Generated_/ANG5EDMQZLNUWEY669GHYYCV7,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/ANTV46LW7SQ63IF65TL3XXFWH,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/AT9TQKEO6RA8A649PWR88W8NO,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601184,None
+0,/Game/Levels/Level1/_Generated_/ATY2EJXG2HHSH20PICY7KSZ3F,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/B2P22PR9CXX9ECM7JL473LCJU,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601176,None
+0,/Game/Levels/Level1/_Generated_/BJ7WWEAJKNIG61B26TA2F0HMN,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601176,None
+0,/Game/Levels/Level1/_Generated_/C77MULTPMYEVHCXQ1WKHARZU1,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/CLRYIY8DTCDUAN2N7RBS0W5VL,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/CPOFC0ATTPERG2CYVA3JK2KHK,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/CXB0BW45NJ6V3XSUP1RQP4Z0V,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601184,None
+0,/Game/Levels/Level1/_Generated_/D65AL0RUZRUNHB3PUMDTSYMSL,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601176,None
+0,/Game/Levels/Level1/_Generated_/D698KSRRUTQ1OCL2YTVK9YH0N,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/DB1I8VU1GQRJLJPQ16BX9NVPX,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,3249,None
+0,/Game/Levels/Level1/_Generated_/DMR6RZDAYBH3P6E9YXCQV1ZKA,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/DOJM1L9KRZXECYWOKX7138F7M,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601184,None
+0,/Game/Levels/Level1/_Generated_/DP4PYLFN84PURBECWPAZ8Z4E4,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601184,None
+0,/Game/Levels/Level1/_Generated_/EFVGIC1DKF4L9I8YRDJJF5ADU,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level1/_Generated_/EWFCE3JG18DTX9ST14TNQEGO2,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,125647103,None
+0,/Game/Levels/Level2/_Generated_/04O2XPUK167O8IMZ24GMPQREE,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/06HINMYD7GGRQFAR1LCYM60DW,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/0JZYR6IP1SFJBF0BAL4U851ET,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/0WSA03DHW8BW5BDENU8R97037,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601184,None
+0,/Game/Levels/Level2/_Generated_/137C05T4ILBDAN6OF8PX56RKW,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/1ANFLOH8E6WRBTONYWS5HT2Z1,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/1EVFIKA4YUWJNYVXBZ8FWBIXH,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/1GK4EIBLA4UUH3HU5Y67P0S31,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/1M5D5ZZPDGK4AUVRSQ7MRSRL2,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/1VHK4VYSG468EAOBHEDBQ0TWN,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/1WCIBJAHLIAHIV4KP43ZV2E3L,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/2NHNJUYUNOPF7P1NGVVATXQJJ,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/2UAESXTM2VSFT1LA6EWP1WYF8,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/2YFBGLFPRXXH6HP4VAK1HTB6E,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/34E9S08OOXIXFM2XQF45W7UB2,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601184,None
+0,/Game/Levels/Level2/_Generated_/3C9XAJV4BM4LC9W98GH2LVAX0,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/3FVJQHT36FU8UY498Q4KUPH49,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/3JYLH00LO1ATCTVJONC4Q3JC5,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/3UFA21ZW58M1F54BVIDAFRH18,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/434G6RCS5O4TB03SELVYI6X9X,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601184,None
+0,/Game/Levels/Level2/_Generated_/4563EUHJ6HGVO8RJA948RRXM1,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601176,None
+0,/Game/Levels/Level2/_Generated_/4ACDFAV28QOCEZXGND3ADI9GD,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/4R8Z8U338YVWKBEJS34H1T49C,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/4TEWAKE2JHWU5IX3LL2VVHW6Z,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/4V2JYNQC45F7K7PMLSN7HMDLZ,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601176,None
+0,/Game/Levels/Level2/_Generated_/550T04V5WYXDRVLX887STKL8M,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/56WQL0R0QZEZ84XA5C3YQLT18,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/5QHS6MAQ3LNIRY395DUJ6WCEV,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/5SEKVO5497917BNXQ0FHH01MX,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/60L3L3NCUEKL24C32DFKAPIIE,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/621IMG5AIHEQ41UISIT9R7SNB,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/6HU410OI3G9ICJZQ0RCHBVK5M,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/6XJADF4O4LE3I6J3XW5KCZ6ET,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601184,None
+0,/Game/Levels/Level2/_Generated_/75DG17J3UBTTDJDNZJ3QTQBNZ,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/7ARGOHG7G02A6TKYZJV9WAR2R,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/7IJZBFAQITNIHI47LU9H6M5SH,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/7VDZCLKMK95LXFCABE2UM8FR1,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/8DNOWNUGDUOP4NTHHKW08NL7C,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/8MSTTKYSY8OSX51NIOGK86NJ8,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601184,None
+0,/Game/Levels/Level2/_Generated_/8SYB9F2ICQ3QHHMXY4JBRABVP,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601184,None
+0,/Game/Levels/Level2/_Generated_/8USYF3FFB1DH1QCN73IR9MP55,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/9810QXZIB7A3PVMRONUEFLFHG,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,5137,None
+0,/Game/Levels/Level2/_Generated_/99HKRHBT0827XY9WNB0M41YE9,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601176,None
+0,/Game/Levels/Level2/_Generated_/9N7YOT8SH5C9QGPWS5KEDFYYL,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/A20PC58CU2ONGRXQNDXM7MHZ9,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601176,None
+0,/Game/Levels/Level2/_Generated_/AFBNAB69W2ILHBBPVFID47AZS,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/AXEL0SOIKKJ39AU1MEYZRZIIO,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601176,None
+0,/Game/Levels/Level2/_Generated_/B1DPYZ04OZNXKMBHMZYZR5QG6,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,3269,None
+0,/Game/Levels/Level2/_Generated_/BAGGGGD58VF8W1ZQLBRM3MHL1,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/BECIGAMIHRJJ0DKYDZBS7X7GF,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601176,None
+0,/Game/Levels/Level2/_Generated_/BUNSIKTOFDUQL3KX67V3RNLU8,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/C146UF32BYTWY28CIFWZHK89L,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/C8OFJMQRCWXDYRYUCBS1YU327,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/CE1167VFQV0LNKZS9T4U51OJS,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/D6FQU5G2LIU3SPQOWR04NQ4NU,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/DMUHOQCQNYT6IZI364F05PLEN,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/EC0KZP0Z0UPG02ODZ4KLFXC1Y,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601176,None
+0,/Game/Levels/Level2/_Generated_/EKST993L1O7YAAWIGGR9XE4WW,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/EQW3V8G4HOSKZ96AFFJXVWSTP,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601184,None
+0,/Game/Levels/Level2/_Generated_/ESQQ277XI8EBNQ3MY5OJMKA5A,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601154,None
+0,/Game/Levels/Level2/_Generated_/EZF10HM385DG2GJNFFBP8YVKU,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/EZRKAZFAIBFXMFMGOAX4EWDUZ,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level2/_Generated_/F373QAJS2CL1SPTDQSCSILCH8,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601192,None
+0,/Game/Levels/Level3,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,125649033,None
+0,/Game/Levels/Level3/_Generated_/0JWL43ZN37491COCQLBVM382A,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/0QYDB2QUNTT0SVTCITFF30P6Q,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/0WWXVSIUSGPWATJ9957HEHISP,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/13RLDSNUF1CJFX164BOEC5D84,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,3203,None
+0,/Game/Levels/Level3/_Generated_/14EVEO02X8Q8O6ED3TU5MYS0H,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601240,None
+0,/Game/Levels/Level3/_Generated_/1DKJA75CMXY3MOGIVLZEFJY8Q,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/22VUCJL9V9BU4WHNRGUSOZLG2,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/2ALZ4IR0G04NO6JMEDHYWWW4X,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/2FR4SDG3HQTDC9CW0PXH5ICHB,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/2O9W4HOBMV5MZUI8ZODAEUP7P,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601240,None
+0,/Game/Levels/Level3/_Generated_/2RDTHTP11WUV8UB6YOG0WQJE3,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/2RUMM0CJ4CJGLB383C23J0RKA,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/2TRMUEKL0YW7ZL8IW9BWCPVCQ,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601240,None
+0,/Game/Levels/Level3/_Generated_/35IX42UEOTEIU1VU0AMHWJ8PH,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601248,None
+0,/Game/Levels/Level3/_Generated_/375VNBGXI1EG9M3XJQSRL9ILA,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/3LFHDIIE1G8VE48NMZ5MARPPP,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/3NS41G1SGYMZ867VHKBAPFW95,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/3RVIE3B2JCS5ATOLNPCSONBGV,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/3U760IKM58X51ZVHLCUV42OU5,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/44QD6VR8R5UW1D7SPZTPP9HVO,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/47IWSVL5LN7J5SBIU6Q9O177Z,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/4LPW4X71T5VF8NZ98QFEVKGK3,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/5OY9ACFO5ILURZZ8CT9D2ZX1T,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/6CS2UK0XZTKD0MCL5ZUL3DO9O,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601240,None
+0,/Game/Levels/Level3/_Generated_/6GIKGM5TSHNYWSPYHQYAF4HXN,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/6MZQT9FT9STUF9YRW8RN4AET7,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601248,None
+0,/Game/Levels/Level3/_Generated_/6PFQAGYPMSC1QGPH37M8FB6Y9,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601248,None
+0,/Game/Levels/Level3/_Generated_/6R9O8D7RXK53SLOO4A9MBKY2Y,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/6SVZMWVS4PODGQYC5F1TI780C,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/6T8Q3PJFWM5LMIG1CPYMOQ8Q3,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/704JD8FWZZC3W3X2DCB30XG2O,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601248,None
+0,/Game/Levels/Level3/_Generated_/79WTRS5K4VO6THFB0LZUP1CPK,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/7EZW8QNHHF0UZEMCO32X73AN6,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601240,None
+0,/Game/Levels/Level3/_Generated_/7GIXEMIQCQGUJSB2OSK80NDT0,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/7M4NWOUV6QZJOCVAEETYCNW62,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/7M9EFMWIQRWV0BIPF7C9HCWUO,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601248,None
+0,/Game/Levels/Level3/_Generated_/8152WQGKOZNIZ2KX1RMQU5ZE3,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/83Q79O5I8KPZQL8EE1D614O35,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601240,None
+0,/Game/Levels/Level3/_Generated_/8OMXZXRVMVW295CMD05U393GM,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/915Z49SP8M635WRKUNXTQW0TA,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/92YTI6MVE8F9CAR75I02E9KUG,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/96FI0D7JMDU55XF0ACH1JU3JK,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601218,None
+0,/Game/Levels/Level3/_Generated_/9WPAQ583PSBYW3G2IU8HFZNB4,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/9YG61NOY0Q7Y29YSGLV3MFW8P,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/A3948SYEW46RZSBOWSFU5FMGU,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/AI45C493PQQ117RLTPS5FE0T3,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/AZM8U4C32EPY0823CL4GXTMP0,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/BDJZVULXTL34MP2LJ3RGDIWTX,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/BR17G7X0VZMT8SGOQW4JXLNEO,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/C6CNZURQJCFCM9MPVRVYFOXOB,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/CCJ2LL40BMFDPL9J8IDJYGJQJ,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/CKB7SC9NSLDVVQ6UYHWEPLQOT,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/CXNI4G4G0E9053TRWRLXDBXAL,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601248,None
+0,/Game/Levels/Level3/_Generated_/D3BGKFFLZXUFIY2892L29XILK,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/D7G1ZSEKCX3S9SKDNOW9JULZG,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/DF8TE7UYB17033P210C1ZYJWS,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/DQHE6VC0EXBA5NT08YNNIECOL,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/DYI1WIL8NEVHBRAHI04R3R0OO,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/E54HHKVHSJIBU3VQHF38IP696,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601240,None
+0,/Game/Levels/Level3/_Generated_/E7AS4BJTZC0E7E3XQZIN24RNB,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601248,None
+0,/Game/Levels/Level3/_Generated_/E8H5MPNTBUPDD8SUT7S97KBAZ,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/ED6JFSZY7IFI7UF6OQL4KENFD,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/EVJSTE5YPNZ9O5082NUIUVXBX,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/F3OYA8KJ4G7MB9E85XX747TVN,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/Level3/_Generated_/F4YQ3WUFN2SJ7EFL4VNPHLOD0,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601256,None
+0,/Game/Levels/LevelSelector,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,2523,None
+0,/Game/Levels/LevelSelector,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,2523,None
+0,/Game/Levels/MainMenu,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,5175,None
+0,/Game/Levels/MainMenu,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,5175,None
+0,/Game/Levels/TestLevel,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,12259628,None
+0,/Game/Levels/TestLevel,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,12259628,None
+0,/Game/Levels/UI,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,12256808,None
+0,/Game/Levels/UI,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,12256808,None
+0,/Game/Menus/LevelSelector/LevelSelect,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,11959,None
+0,/Game/Menus/LevelSelector/LevelSelect,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,11959,None
+0,/Game/Menus/LevelSelector/Levelselector,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,2166,None
+0,/Game/Menus/LevelSelector/Levelselector,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,2166,None
+0,/Game/Menus/LevelSelector/Menu_Lvls/2024_,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,15169709,None
+0,/Game/Menus/LevelSelector/Menu_Lvls/Export,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,12906272,None
+0,/Game/Menus/LevelSelector/Menu_Lvls/Fondo_Select,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,4350823,None
+0,/Game/Menus/LevelSelector/Menu_Lvls/Level1,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,12906272,None
+0,/Game/Menus/LevelSelector/Menu_Lvls/Main_Menu,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,12906281,None
+0,/Game/Menus/LevelSelector/Menu_Lvls/Soon,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,12906266,None
+0,/Game/Menus/MainMenu/Main_Menu,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,8941,None
+0,/Game/Menus/MainMenu/Main_Menu,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,8941,None
+0,/Game/Menus/MainMenu/MainMenuPNNG/Boton,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5045929,None
+0,/Game/Menus/MainMenu/MainMenuPNNG/Boton_pressed,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5045953,None
+0,/Game/Menus/MainMenu/MainMenuPNNG/BotonExit,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,1026517,None
+0,/Game/Menus/MainMenu/MainMenuPNNG/BotonStart,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,1048816,None
+0,/Game/Menus/MainMenu/MainMenuPNNG/Logo,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,7369902,None
+0,/Game/Menus/MainMenu/MainMenuPNNG/Portada,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,4350804,None
+0,/Game/Menus/MainMenu/MainMenuPNNG/PressedExit,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,1026523,None
+0,/Game/Menus/MainMenu/MainMenuPNNG/PressedStart,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,1048822,None
+0,/Game/Menus/MainMenu/MainMenuPNNG/UI_Gameplay_blocking,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,4350843,None
+0,/Game/Menus/MainMenu/MenuGameMode,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,2152,None
+0,/Game/Menus/MainMenu/MenuGameMode,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,2152,None
+0,/Game/Props/Boost/BP_Boost,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,8761,None
+0,/Game/Props/Boost/BP_Boost,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,8761,None
+0,/Game/Props/Box/Box_BP,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,6005,None
+0,/Game/Props/Box/Box_BP,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,6005,None
+0,/Game/Props/Box/Caja_Madera_UV_P,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,180300,None
+0,/Game/Props/ramp_Test/Ramp_Test,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,34081,None
+0,/Game/Splash/EdSplash,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,1037645,None
+0,/Game/Splash/Splash,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,1037639,None
+0,/Game/StarterContent/Architecture/Floor_400x400,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,91468,None
+0,/Game/StarterContent/Architecture/Pillar_50x500,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,23078,None
+0,/Game/StarterContent/Architecture/SM_AssetPlatform,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,386362,None
+0,/Game/StarterContent/Architecture/Wall_400x200,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,52247,None
+0,/Game/StarterContent/Architecture/Wall_400x300,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,77015,None
+0,/Game/StarterContent/Architecture/Wall_400x400,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,91463,None
+0,/Game/StarterContent/Architecture/Wall_500x500,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,163203,None
+0,/Game/StarterContent/Architecture/Wall_Door_400x300,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,80736,None
+0,/Game/StarterContent/Architecture/Wall_Door_400x400,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,95696,None
+0,/Game/StarterContent/Architecture/Wall_Window_400x300,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,86976,None
+0,/Game/StarterContent/Architecture/Wall_Window_400x400,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,101488,None
+0,/Game/StarterContent/Audio/Collapse01,/Script/Engine.SoundWave,Soft: Unknown reference chain. Soft From Unassigned Package?,68406,None
+0,/Game/StarterContent/Audio/Collapse02,/Script/Engine.SoundWave,Soft: Unknown reference chain. Soft From Unassigned Package?,69974,None
+0,/Game/StarterContent/Audio/Collapse_Cue,/Script/Engine.SoundCue,Soft: Unknown reference chain. Soft From Unassigned Package?,1706,None
+0,/Game/StarterContent/Audio/Explosion01,/Script/Engine.SoundWave,Soft: Unknown reference chain. Soft From Unassigned Package?,41175,None
+0,/Game/StarterContent/Audio/Explosion02,/Script/Engine.SoundWave,Soft: Unknown reference chain. Soft From Unassigned Package?,40555,None
+0,/Game/StarterContent/Audio/Explosion_Cue,/Script/Engine.SoundCue,Soft: Unknown reference chain. Soft From Unassigned Package?,1999,None
+0,/Game/StarterContent/Audio/Fire01,/Script/Engine.SoundWave,Soft: Unknown reference chain. Soft From Unassigned Package?,115467,None
+0,/Game/StarterContent/Audio/Fire01_Cue,/Script/Engine.SoundCue,Soft: Unknown reference chain. Soft From Unassigned Package?,1167,None
+0,/Game/StarterContent/Audio/Fire_Sparks01,/Script/Engine.SoundWave,Soft: Unknown reference chain. Soft From Unassigned Package?,184612,None
+0,/Game/StarterContent/Audio/Fire_Sparks01_Cue,/Script/Engine.SoundCue,Soft: Unknown reference chain. Soft From Unassigned Package?,1202,None
+0,/Game/StarterContent/Audio/Light01,/Script/Engine.SoundWave,Soft: Unknown reference chain. Soft From Unassigned Package?,85126,None
+0,/Game/StarterContent/Audio/Light01_Cue,/Script/Engine.SoundCue,Soft: Unknown reference chain. Soft From Unassigned Package?,1170,None
+0,/Game/StarterContent/Audio/Light02,/Script/Engine.SoundWave,Soft: Unknown reference chain. Soft From Unassigned Package?,62496,None
+0,/Game/StarterContent/Audio/Light02_Cue,/Script/Engine.SoundCue,Soft: Unknown reference chain. Soft From Unassigned Package?,1170,None
+0,/Game/StarterContent/Audio/Smoke01,/Script/Engine.SoundWave,Soft: Unknown reference chain. Soft From Unassigned Package?,92144,None
+0,/Game/StarterContent/Audio/Smoke01_Cue,/Script/Engine.SoundCue,Soft: Unknown reference chain. Soft From Unassigned Package?,1172,None
+0,/Game/StarterContent/Audio/Starter_Background_Cue,/Script/Engine.SoundCue,Soft: Unknown reference chain. Soft From Unassigned Package?,2469,None
+0,/Game/StarterContent/Audio/Starter_Birds01,/Script/Engine.SoundWave,Soft: Unknown reference chain. Soft From Unassigned Package?,518059,None
+0,/Game/StarterContent/Audio/Starter_Music01,/Script/Engine.SoundWave,Soft: Unknown reference chain. Soft From Unassigned Package?,1225672,None
+0,/Game/StarterContent/Audio/Starter_Music_Cue,/Script/Engine.SoundCue,Soft: Unknown reference chain. Soft From Unassigned Package?,1154,None
+0,/Game/StarterContent/Audio/Starter_Wind05,/Script/Engine.SoundWave,Soft: Unknown reference chain. Soft From Unassigned Package?,433582,None
+0,/Game/StarterContent/Audio/Starter_Wind06,/Script/Engine.SoundWave,Soft: Unknown reference chain. Soft From Unassigned Package?,601959,None
+0,/Game/StarterContent/Audio/Steam01,/Script/Engine.SoundWave,Soft: Unknown reference chain. Soft From Unassigned Package?,168922,None
+0,/Game/StarterContent/Audio/Steam01_Cue,/Script/Engine.SoundCue,Soft: Unknown reference chain. Soft From Unassigned Package?,1172,None
+0,/Game/StarterContent/Blueprints/Assets/FogBrightnessLUT,/Script/Engine.CurveFloat,Soft: Unknown reference chain. Soft From Unassigned Package?,798,None
+0,/Game/StarterContent/Blueprints/Assets/M_LightStage_Arrows,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,7340,None
+0,/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,990,None
+0,/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,8461,None
+0,/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,7524,None
+0,/Game/StarterContent/Blueprints/Assets/Skybox,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,2376366,None
+0,/Game/StarterContent/Blueprints/Assets/SM_Arrows,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,2062544,None
+0,/Game/StarterContent/Blueprints/Assets/SunlightColorLUT,/Script/Engine.CurveLinearColor,Soft: Unknown reference chain. Soft From Unassigned Package?,1148,None
+0,/Game/StarterContent/Blueprints/Blueprint_CeilingLight,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,5163,None
+0,/Game/StarterContent/Blueprints/Blueprint_CeilingLight,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,5163,None
+0,/Game/StarterContent/Blueprints/Blueprint_Effect_Explosion,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,3495,None
+0,/Game/StarterContent/Blueprints/Blueprint_Effect_Explosion,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,3495,None
+0,/Game/StarterContent/Blueprints/Blueprint_Effect_Fire,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,3478,None
+0,/Game/StarterContent/Blueprints/Blueprint_Effect_Fire,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,3478,None
+0,/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,3487,None
+0,/Game/StarterContent/Blueprints/Blueprint_Effect_Smoke,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,3487,None
+0,/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,3497,None
+0,/Game/StarterContent/Blueprints/Blueprint_Effect_Sparks,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,3497,None
+0,/Game/StarterContent/Blueprints/Blueprint_Effect_Steam,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,3495,None
+0,/Game/StarterContent/Blueprints/Blueprint_Effect_Steam,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,3495,None
+0,/Game/StarterContent/Blueprints/Blueprint_WallSconce,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,5543,None
+0,/Game/StarterContent/Blueprints/Blueprint_WallSconce,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,5543,None
+0,/Game/StarterContent/Blueprints/BP_LightStudio,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,30192,None
+0,/Game/StarterContent/Blueprints/BP_LightStudio,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,30192,None
+0,/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight,/Script/Engine.TextureCube,Soft: Unknown reference chain. Soft From Unassigned Package?,16778673,None
+0,/Game/StarterContent/Maps/Advanced_Lighting,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,15080,None
+0,/Game/StarterContent/Maps/Advanced_Lighting_BuiltData,/Script/Engine.MapBuildDataRegistry,Soft: Unknown reference chain. Soft From Unassigned Package?,1403753,None
+0,/Game/StarterContent/Maps/Minimal_Default,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,16778,None
+0,/Game/StarterContent/Maps/Minimal_Default,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,16778,None
+0,/Game/StarterContent/Maps/Minimal_Default_BuiltData,/Script/Engine.MapBuildDataRegistry,Soft: Unknown reference chain. Soft From Unassigned Package?,2514391,None
+0,/Game/StarterContent/Maps/StarterMap,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,135953,None
+0,/Game/StarterContent/Maps/StarterMap,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,135953,None
+0,/Game/StarterContent/Maps/StarterMap_BuiltData,/Script/Engine.MapBuildDataRegistry,Soft: Unknown reference chain. Soft From Unassigned Package?,19143558,None
+0,/Game/StarterContent/Materials/M_AssetPlatform,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,21511,None
+0,/Game/StarterContent/Materials/M_Basic_Floor,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,21979,None
+0,/Game/StarterContent/Materials/M_Basic_Wall,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,21976,None
+0,/Game/StarterContent/Materials/M_Brick_Clay_Beveled,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,22578,None
+0,/Game/StarterContent/Materials/M_Brick_Clay_New,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,22766,None
+0,/Game/StarterContent/Materials/M_Brick_Clay_Old,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,22538,None
+0,/Game/StarterContent/Materials/M_Brick_Cut_Stone,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,22545,None
+0,/Game/StarterContent/Materials/M_Brick_Hewn_Stone,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,22784,None
+0,/Game/StarterContent/Materials/M_Ceramic_Tile_Checker,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,23082,None
+0,/Game/StarterContent/Materials/M_CobbleStone_Pebble,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,22578,None
+0,/Game/StarterContent/Materials/M_CobbleStone_Rough,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,23126,None
+0,/Game/StarterContent/Materials/M_CobbleStone_Smooth,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,23777,None
+0,/Game/StarterContent/Materials/M_ColorGrid_LowSpec,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,21864,None
+0,/Game/StarterContent/Materials/M_Concrete_Grime,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,22530,None
+0,/Game/StarterContent/Materials/M_Concrete_Panels,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,22545,None
+0,/Game/StarterContent/Materials/M_Concrete_Poured,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,22545,None
+0,/Game/StarterContent/Materials/M_Concrete_Tiles,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,23285,None
+0,/Game/StarterContent/Materials/M_Glass,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,31930,None
+0,/Game/StarterContent/Materials/M_Ground_Grass,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,23365,None
+0,/Game/StarterContent/Materials/M_Ground_Gravel,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,22531,None
+0,/Game/StarterContent/Materials/M_Ground_Moss,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,22517,None
+0,/Game/StarterContent/Materials/M_Metal_Brushed_Nickel,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,21876,None
+0,/Game/StarterContent/Materials/M_Metal_Burnished_Steel,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,22327,None
+0,/Game/StarterContent/Materials/M_Metal_Chrome,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,21852,None
+0,/Game/StarterContent/Materials/M_Metal_Copper,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,22296,None
+0,/Game/StarterContent/Materials/M_Metal_Gold,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,30614,None
+0,/Game/StarterContent/Materials/M_Metal_Rust,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,22524,None
+0,/Game/StarterContent/Materials/M_Metal_Steel,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,22293,None
+0,/Game/StarterContent/Materials/M_Rock_Basalt,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,22517,None
+0,/Game/StarterContent/Materials/M_Rock_Marble_Polished,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,22336,None
+0,/Game/StarterContent/Materials/M_Rock_Sandstone,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,22538,None
+0,/Game/StarterContent/Materials/M_Rock_Slate,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,22510,None
+0,/Game/StarterContent/Materials/M_Tech_Checker_Dot,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,23262,None
+0,/Game/StarterContent/Materials/M_Tech_Hex_Tile,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,22590,None
+0,/Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,22887,None
+0,/Game/StarterContent/Materials/M_Tech_Panel,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,22781,None
+0,/Game/StarterContent/Materials/M_Water_Lake,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,22263,None
+0,/Game/StarterContent/Materials/M_Water_Ocean,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,23313,None
+0,/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,22596,None
+0,/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Worn,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,22792,None
+0,/Game/StarterContent/Materials/M_Wood_Oak,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,22272,None
+0,/Game/StarterContent/Materials/M_Wood_Pine,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,22503,None
+0,/Game/StarterContent/Materials/M_Wood_Walnut,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,22293,None
+0,/Game/StarterContent/Particles/Materials/M_Burst,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,17803,None
+0,/Game/StarterContent/Particles/Materials/M_Dust_Particle,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,54100,None
+0,/Game/StarterContent/Particles/Materials/M_explosion_subUV,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,13675,None
+0,/Game/StarterContent/Particles/Materials/M_Fire_SubUV,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,13983,None
+0,/Game/StarterContent/Particles/Materials/m_flare_01,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,15416,None
+0,/Game/StarterContent/Particles/Materials/M_Heat_Distortion,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,21855,None
+0,/Game/StarterContent/Particles/Materials/M_Radial_Gradient,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,15652,None
+0,/Game/StarterContent/Particles/Materials/M_radial_ramp,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,15640,None
+0,/Game/StarterContent/Particles/Materials/M_smoke_subUV,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,43737,None
+0,/Game/StarterContent/Particles/Materials/M_Spark,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,13637,None
+0,/Game/StarterContent/Particles/P_Ambient_Dust,/Script/Engine.ParticleSystem,Soft: Unknown reference chain. Soft From Unassigned Package?,20091,None
+0,/Game/StarterContent/Particles/P_Explosion,/Script/Engine.ParticleSystem,Soft: Unknown reference chain. Soft From Unassigned Package?,28269,None
+0,/Game/StarterContent/Particles/P_Fire,/Script/Engine.ParticleSystem,Soft: Unknown reference chain. Soft From Unassigned Package?,43993,None
+0,/Game/StarterContent/Particles/P_Smoke,/Script/Engine.ParticleSystem,Soft: Unknown reference chain. Soft From Unassigned Package?,8879,None
+0,/Game/StarterContent/Particles/P_Sparks,/Script/Engine.ParticleSystem,Soft: Unknown reference chain. Soft From Unassigned Package?,19927,None
+0,/Game/StarterContent/Particles/P_Steam_Lit,/Script/Engine.ParticleSystem,Soft: Unknown reference chain. Soft From Unassigned Package?,9521,None
+0,/Game/StarterContent/Props/Materials/M_Bush,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,38697,None
+0,/Game/StarterContent/Props/Materials/M_Chair,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,23515,None
+0,/Game/StarterContent/Props/Materials/M_Door,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,24175,None
+0,/Game/StarterContent/Props/Materials/M_Frame,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,22951,None
+0,/Game/StarterContent/Props/Materials/M_Lamp,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,24649,None
+0,/Game/StarterContent/Props/Materials/M_Rock,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,22951,None
+0,/Game/StarterContent/Props/Materials/M_Shelf,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,23027,None
+0,/Game/StarterContent/Props/Materials/M_Statue,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,23503,None
+0,/Game/StarterContent/Props/Materials/M_StatueGlass,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,32604,None
+0,/Game/StarterContent/Props/Materials/M_TableRound,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,23058,None
+0,/Game/StarterContent/Props/MaterialSphere,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,96620,None
+0,/Game/StarterContent/Props/SM_Bush,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,132885,None
+0,/Game/StarterContent/Props/SM_Chair,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,219995,None
+0,/Game/StarterContent/Props/SM_CornerFrame,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,52471,None
+0,/Game/StarterContent/Props/SM_Couch,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,204908,None
+0,/Game/StarterContent/Props/SM_Door,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,159108,None
+0,/Game/StarterContent/Props/SM_DoorFrame,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,34909,None
+0,/Game/StarterContent/Props/SM_GlassWindow,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,56261,None
+0,/Game/StarterContent/Props/SM_Lamp_Ceiling,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,245694,None
+0,/Game/StarterContent/Props/SM_Lamp_Wall,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,99530,None
+0,/Game/StarterContent/Props/SM_PillarFrame,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,79905,None
+0,/Game/StarterContent/Props/SM_PillarFrame300,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,79582,None
+0,/Game/StarterContent/Props/SM_Rock,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,277169,None
+0,/Game/StarterContent/Props/SM_Shelf,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,74096,None
+0,/Game/StarterContent/Props/SM_Stairs,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,35458,None
+0,/Game/StarterContent/Props/SM_Statue,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,368441,None
+0,/Game/StarterContent/Props/SM_TableRound,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,367880,None
+0,/Game/StarterContent/Props/SM_WindowFrame,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,36364,None
+0,/Game/StarterContent/Shapes/Shape_Cone,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,52210,None
+0,/Game/StarterContent/Shapes/Shape_Cube,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,27235,None
+0,/Game/StarterContent/Shapes/Shape_Cylinder,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,74944,None
+0,/Game/StarterContent/Shapes/Shape_NarrowCapsule,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,110857,None
+0,/Game/StarterContent/Shapes/Shape_Pipe,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,29912,None
+0,/Game/StarterContent/Shapes/Shape_Pipe_90,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,138429,None
+0,/Game/StarterContent/Shapes/Shape_Pipe_180,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,238301,None
+0,/Game/StarterContent/Shapes/Shape_Plane,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,14931,None
+0,/Game/StarterContent/Shapes/Shape_QuadPyramid,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,24171,None
+0,/Game/StarterContent/Shapes/Shape_Sphere,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,114600,None
+0,/Game/StarterContent/Shapes/Shape_Torus,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,219407,None
+0,/Game/StarterContent/Shapes/Shape_Trim,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,23044,None
+0,/Game/StarterContent/Shapes/Shape_Trim_90_In,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,42764,None
+0,/Game/StarterContent/Shapes/Shape_Trim_90_Out,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,43375,None
+0,/Game/StarterContent/Shapes/Shape_TriPyramid,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,23542,None
+0,/Game/StarterContent/Shapes/Shape_Tube,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,96228,None
+0,/Game/StarterContent/Shapes/Shape_Wedge_A,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,24915,None
+0,/Game/StarterContent/Shapes/Shape_Wedge_B,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,24915,None
+0,/Game/StarterContent/Shapes/Shape_WideCapsule,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,99517,None
+0,/Game/StarterContent/Textures/T_Brick_Clay_Beveled_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5594010,None
+0,/Game/StarterContent/Textures/T_Brick_Clay_Beveled_M,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,2797794,None
+0,/Game/StarterContent/Textures/T_Brick_Clay_Beveled_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5594017,None
+0,/Game/StarterContent/Textures/T_Brick_Clay_New_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5593998,None
+0,/Game/StarterContent/Textures/T_Brick_Clay_New_M,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,2797785,None
+0,/Game/StarterContent/Textures/T_Brick_Clay_New_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5594008,None
+0,/Game/StarterContent/Textures/T_Brick_Clay_Old_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5593998,None
+0,/Game/StarterContent/Textures/T_Brick_Clay_Old_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5594002,None
+0,/Game/StarterContent/Textures/T_Brick_Cut_Stone_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5594001,None
+0,/Game/StarterContent/Textures/T_Brick_Cut_Stone_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5594008,None
+0,/Game/StarterContent/Textures/T_Brick_Hewn_Stone_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5594004,None
+0,/Game/StarterContent/Textures/T_Brick_Hewn_Stone_M,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,2797788,None
+0,/Game/StarterContent/Textures/T_Brick_Hewn_Stone_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5594011,None
+0,/Game/StarterContent/Textures/T_Burst_M,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,176197,None
+0,/Game/StarterContent/Textures/T_Bush_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,350968,None
+0,/Game/StarterContent/Textures/T_Bush_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,350975,None
+0,/Game/StarterContent/Textures/T_Ceramic_Tile_M,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,700574,None
+0,/Game/StarterContent/Textures/T_Ceramic_Tile_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5593999,None
+0,/Game/StarterContent/Textures/T_Chair_M,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5593971,None
+0,/Game/StarterContent/Textures/T_Chair_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5593978,None
+0,/Game/StarterContent/Textures/T_Checker_Noise_M,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,350998,None
+0,/Game/StarterContent/Textures/T_CobbleStone_Pebble_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5594010,None
+0,/Game/StarterContent/Textures/T_CobbleStone_Pebble_M,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,2797794,None
+0,/Game/StarterContent/Textures/T_CobbleStone_Pebble_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5594017,None
+0,/Game/StarterContent/Textures/T_CobbleStone_Rough_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,700582,None
+0,/Game/StarterContent/Textures/T_CobbleStone_Rough_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,1399650,None
+0,/Game/StarterContent/Textures/T_CobbleStone_Smooth_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5594010,None
+0,/Game/StarterContent/Textures/T_CobbleStone_Smooth_M,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,2797794,None
+0,/Game/StarterContent/Textures/T_CobbleStone_Smooth_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5594017,None
+0,/Game/StarterContent/Textures/T_Concrete_Grime_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,1399640,None
+0,/Game/StarterContent/Textures/T_Concrete_Panels_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5594001,None
+0,/Game/StarterContent/Textures/T_Concrete_Panels_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5594008,None
+0,/Game/StarterContent/Textures/T_Concrete_Poured_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5594001,None
+0,/Game/StarterContent/Textures/T_Concrete_Poured_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5594008,None
+0,/Game/StarterContent/Textures/T_Concrete_Tiles_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,2797782,None
+0,/Game/StarterContent/Textures/T_Concrete_Tiles_M,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,2797782,None
+0,/Game/StarterContent/Textures/T_Concrete_Tiles_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5594005,None
+0,/Game/StarterContent/Textures/T_Concrete_Tiles_Variation_M,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,176255,None
+0,/Game/StarterContent/Textures/T_Detail_Rocky_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,1399635,None
+0,/Game/StarterContent/Textures/T_Door_M,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,2797758,None
+0,/Game/StarterContent/Textures/T_Door_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5593975,None
+0,/Game/StarterContent/Textures/T_Dust_Particle_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,23195,None
+0,/Game/StarterContent/Textures/T_Explosion_SubUV,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,2797779,None
+0,/Game/StarterContent/Textures/T_Fire_SubUV,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,700552,None
+0,/Game/StarterContent/Textures/T_Fire_Tiled_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,176210,None
+0,/Game/StarterContent/Textures/T_Frame_M,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,2797755,None
+0,/Game/StarterContent/Textures/T_Frame_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5593978,None
+0,/Game/StarterContent/Textures/T_Gradinet_01,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,12325,None
+0,/Game/StarterContent/Textures/T_Ground_Grass_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,2797776,None
+0,/Game/StarterContent/Textures/T_Ground_Grass_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5593999,None
+0,/Game/StarterContent/Textures/T_Ground_Gravel_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5593995,None
+0,/Game/StarterContent/Textures/T_Ground_Gravel_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5594002,None
+0,/Game/StarterContent/Textures/T_ground_Moss_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,1399631,None
+0,/Game/StarterContent/Textures/T_Ground_Moss_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5593996,None
+0,/Game/StarterContent/Textures/T_Lamp_M,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5593968,None
+0,/Game/StarterContent/Textures/T_Lamp_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5593975,None
+0,/Game/StarterContent/Textures/T_MacroVariation,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,2797779,None
+0,/Game/StarterContent/Textures/T_Metal_Aluminum_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5593998,None
+0,/Game/StarterContent/Textures/T_Metal_Copper_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5593992,None
+0,/Game/StarterContent/Textures/T_Metal_Gold_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5593986,None
+0,/Game/StarterContent/Textures/T_Metal_Gold_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5593993,None
+0,/Game/StarterContent/Textures/T_Metal_Rust_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5593986,None
+0,/Game/StarterContent/Textures/T_Metal_Rust_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5593990,None
+0,/Game/StarterContent/Textures/T_Metal_Steel_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,2797773,None
+0,/Game/StarterContent/Textures/T_Metal_Steel_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,350997,None
+0,/Game/StarterContent/Textures/T_Perlin_Noise_M,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,2797782,None
+0,/Game/StarterContent/Textures/T_Rock_Basalt_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5593989,None
+0,/Game/StarterContent/Textures/T_Rock_Basalt_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5593996,None
+0,/Game/StarterContent/Textures/T_Rock_Marble_Polished_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,2797800,None
+0,/Game/StarterContent/Textures/T_Rock_Sandstone_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5593998,None
+0,/Game/StarterContent/Textures/T_Rock_Sandstone_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5594005,None
+0,/Game/StarterContent/Textures/T_Rock_Slate_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5593986,None
+0,/Game/StarterContent/Textures/T_Rock_Slate_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5593993,None
+0,/Game/StarterContent/Textures/T_Rock_Smooth_Granite_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,2797800,None
+0,/Game/StarterContent/Textures/T_RockMesh_M,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,2797764,None
+0,/Game/StarterContent/Textures/T_RockMesh_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5593987,None
+0,/Game/StarterContent/Textures/T_Shelf_M,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,2797761,None
+0,/Game/StarterContent/Textures/T_Shelf_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5593978,None
+0,/Game/StarterContent/Textures/T_Single_Tile_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,88792,None
+0,/Game/StarterContent/Textures/T_Smoke_SubUV,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,1399628,None
+0,/Game/StarterContent/Textures/T_Smoke_Tiled_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,45081,None
+0,/Game/StarterContent/Textures/T_Spark_Core,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,176204,None
+0,/Game/StarterContent/Textures/T_Statue_M,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,2797758,None
+0,/Game/StarterContent/Textures/T_Statue_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,1399614,None
+0,/Game/StarterContent/Textures/T_TableRound_M,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,2797770,None
+0,/Game/StarterContent/Textures/T_TableRound_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5593993,None
+0,/Game/StarterContent/Textures/T_Tech_Dot_M,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,176207,None
+0,/Game/StarterContent/Textures/T_Tech_Dot_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,350987,None
+0,/Game/StarterContent/Textures/T_Tech_Hex_Tile_M,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,700570,None
+0,/Game/StarterContent/Textures/T_Tech_Hex_Tile_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,1399638,None
+0,/Game/StarterContent/Textures/T_Tech_Panel_M,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5593986,None
+0,/Game/StarterContent/Textures/T_Tech_Panel_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5593993,None
+0,/Game/StarterContent/Textures/T_Water_M,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,2797755,None
+0,/Game/StarterContent/Textures/T_Water_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,1399618,None
+0,/Game/StarterContent/Textures/T_Wood_Floor_Walnut_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5594007,None
+0,/Game/StarterContent/Textures/T_Wood_Floor_Walnut_M,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5594007,None
+0,/Game/StarterContent/Textures/T_Wood_Floor_Walnut_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5594014,None
+0,/Game/StarterContent/Textures/T_Wood_Oak_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5593980,None
+0,/Game/StarterContent/Textures/T_Wood_Oak_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5593987,None
+0,/Game/StarterContent/Textures/T_Wood_Pine_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5593983,None
+0,/Game/StarterContent/Textures/T_Wood_Pine_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5593990,None
+0,/Game/StarterContent/Textures/T_Wood_Walnut_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5593989,None
+0,/Game/StarterContent/Textures/T_Wood_Walnut_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5593996,None
+0,/Game/Track/M_Track,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,24327,None
+0,/Game/Track/MI_TrackEdge,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,1125,None
+0,/Game/Track/SM_Track_10M,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,396786,None
+0,/Game/Tracks/Blocking_3/BlokingCircuito3_Barco,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,2550444,None
+0,/Game/Tracks/Blocking_3/BlokingCircuito3_Barco_001,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,13252971,None
+0,/Game/Tracks/Blocking_prueba/BlokingCircuito2,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,2405568,None
+0,/Game/Tracks/Blocking_prueba/Carretera,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,3835365,None
+0,/Game/Tracks/Blocking_prueba/circuito,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,2914,None
+0,/Game/Tracks/Blocking_prueba/circuito,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,2914,None
+0,/Game/Tracks/Blocking_prueba/Portaaviones,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,68886,None
+0,/Game/Tracks/BlokingPrubaMapa2/BlokingCircuito_02_SegundaPrueba_Cube,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,4689605,None
+0,/Game/Tracks/BlokingPrubaMapa2/BlokingCircuito_02_SegundaPrueba_Cube_006,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,1523595,None
+0,/Game/Tracks/BlokingPrubaMapa2/BlokingCircuito_02_SegundaPrueba_Landscape,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,2483178,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Cube_004,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,68398,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Cube_005,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,209482,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Cube_006,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,68302,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Cube_007,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,134402,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Cube_008,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,105454,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Cube_009,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,130506,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Cube_010,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,68302,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Cube_011,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,199086,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Cube_012,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,254638,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Cube_014,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,1776664,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Cylinder,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,150009,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Cylinder_001,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,153234,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Cylinder_007,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,26311044,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Cylinder_008,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,603376,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Cylinder_009,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,596791,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Cylinder_010,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,153706,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Cylinder_011,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,153744,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Cylinder_012,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,153596,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Cylinder_013,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,153756,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Cylinder_014,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,153500,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Cylinder_015,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,153930,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Cylinder_016,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,159480,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Cylinder_017,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,989889,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Cylinder_018,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,153648,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Cylinder_019,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,159614,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Cylinder_020,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,153744,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Cylinder_021,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,153844,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Cylinder_022,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,153994,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Cylinder_023,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,153680,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Cylinder_024,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,159614,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Cylinder_025,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,153994,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Cylinder_026,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,159518,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Cylinder_027,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,168588,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Iceberg_01_pocho,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,2201914,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_NurbsPath_002,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,165803,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Plane_001,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,411475,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Plane_004,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,323703,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Sphere,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,3727684,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Sphere_001,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,1973815,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Sphere_003,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,922333,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Sphere_004,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,365274,None
+0,/Game/Tracks/Prueba_mapa2/BlokingCircuito3_01_Sphere_005,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,878705,None
+0,/Game/Tracks/Prueba_mapa2/Material_001,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,14925,None
+0,/Game/Tracks/Prueba_mapa2/Material_002,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,14893,None
+0,/Game/Vehicles/OffroadCar/Materials/M_OffroadCar_Wheel,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,24695,None
+0,/Game/Vehicles/OffroadCar/Materials/MI_OffroadCar_Lights,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,1002,None
+0,/Game/Vehicles/OffroadCar/Materials/MI_OffroadCar_Main,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,30906,None
+0,/Game/Vehicles/OffroadCar/Materials/MI_OffroadCar_Seats,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,2730,None
+0,/Game/Vehicles/OffroadCar/Materials/MI_OffroadCar_Suspension,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,2717,None
+0,/Game/Vehicles/OffroadCar/Materials/MI_OffroadCar_Wheel,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,946,None
+0,/Game/Vehicles/OffroadCar/Materials/Textures/T_OffroadCar_Body_ASAOPM,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,11186504,None
+0,/Game/Vehicles/OffroadCar/Materials/Textures/T_OffroadCar_Body_BN,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,22371317,None
+0,/Game/Vehicles/OffroadCar/Materials/Textures/T_OffroadCar_Body_CCRCCP,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,11186504,None
+0,/Game/Vehicles/OffroadCar/Materials/Textures/T_OffroadCar_Body_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,11186483,None
+0,/Game/Vehicles/OffroadCar/Materials/Textures/T_OffroadCar_Body_MSR,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,11186495,None
+0,/Game/Vehicles/OffroadCar/Materials/Textures/T_OffroadCar_Body_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,22371314,None
+0,/Game/Vehicles/OffroadCar/Materials/Textures/T_OffroadCar_Body_Tan,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,22371317,None
+0,/Game/Vehicles/OffroadCar/Materials/Textures/T_OffroadCar_Seats_ASAOPM,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,11186507,None
+0,/Game/Vehicles/OffroadCar/Materials/Textures/T_OffroadCar_Seats_BN,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,22371320,None
+0,/Game/Vehicles/OffroadCar/Materials/Textures/T_OffroadCar_Seats_CCRCCP,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,11186507,None
+0,/Game/Vehicles/OffroadCar/Materials/Textures/T_OffroadCar_Seats_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,11186486,None
+0,/Game/Vehicles/OffroadCar/Materials/Textures/T_OffroadCar_Seats_MSR,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,11186498,None
+0,/Game/Vehicles/OffroadCar/Materials/Textures/T_OffroadCar_Seats_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,22371317,None
+0,/Game/Vehicles/OffroadCar/Materials/Textures/T_OffroadCar_Seats_Tan,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,22371320,None
+0,/Game/Vehicles/OffroadCar/Materials/Textures/T_OffroadCar_Sus_ASAOPM,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,11186501,None
+0,/Game/Vehicles/OffroadCar/Materials/Textures/T_OffroadCar_Sus_BN,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,22371314,None
+0,/Game/Vehicles/OffroadCar/Materials/Textures/T_OffroadCar_Sus_CCRCCP,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,11186501,None
+0,/Game/Vehicles/OffroadCar/Materials/Textures/T_OffroadCar_Sus_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,11186480,None
+0,/Game/Vehicles/OffroadCar/Materials/Textures/T_OffroadCar_Sus_MSR,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,11186492,None
+0,/Game/Vehicles/OffroadCar/Materials/Textures/T_OffroadCar_Sus_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,22371311,None
+0,/Game/Vehicles/OffroadCar/Materials/Textures/T_OffroadCar_Sus_Tan,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,22371314,None
+0,/Game/Vehicles/OffroadCar/Materials/Textures/T_OffroadCar_Wheels_D,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,11186489,None
+0,/Game/Vehicles/OffroadCar/Materials/Textures/T_OffroadCar_Wheels_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,22371320,None
+0,/Game/Vehicles/OffroadCar/Materials/Textures/T_OffroadCar_Wheels_RMA,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,11186501,None
+0,/Game/Vehicles/OffroadCar/Materials/Textures/T_Vehicle_Light_M,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,22371301,None
+0,/Game/Vehicles/OffroadCar/Offroad_AnimBP,/Script/Engine.AnimBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,8863,None
+0,/Game/Vehicles/OffroadCar/Offroad_AnimBP,/Script/Engine.AnimBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,8863,None
+0,/Game/Vehicles/OffroadCar/Offroad_CtrlRig,/Script/ControlRigDeveloper.ControlRigBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,71096,None
+0,/Game/Vehicles/OffroadCar/Offroad_CtrlRig,/Script/ControlRig.ControlRigBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,71096,None
+0,/Game/Vehicles/OffroadCar/SKM_Offroad,/Script/Engine.SkeletalMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,1612664,None
+0,/Game/Vehicles/OffroadCar/SKM_Offroad_PhysicsAsset,/Script/Engine.PhysicsAsset,Soft: Unknown reference chain. Soft From Unassigned Package?,10336,None
+0,/Game/Vehicles/OffroadCar/SKM_Offroad_Skeleton,/Script/Engine.Skeleton,Soft: Unknown reference chain. Soft From Unassigned Package?,7058,None
+0,/Game/Vehicles/OffroadCar/SM_Offroad_Body,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,5021909,None
+0,/Game/Vehicles/OffroadCar/SM_Offroad_Tire,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,1919600,None
+0,/Game/Vehicles/PhysicsMaterials/NonSlippery,/Script/PhysicsCore.PhysicalMaterial,Soft: Unknown reference chain. Soft From Unassigned Package?,708,None
+0,/Game/Vehicles/PhysicsMaterials/Slippery,/Script/PhysicsCore.PhysicalMaterial,Soft: Unknown reference chain. Soft From Unassigned Package?,696,None
+0,/Game/Vehicles/SportsCar/kart_reoriented_TESKELETON,/Script/Engine.SkeletalMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,135566,None
+0,/Game/Vehicles/SportsCar/kart_reoriented_TESKELETON_PhysicsAsset,/Script/Engine.PhysicsAsset,Soft: Unknown reference chain. Soft From Unassigned Package?,1148,None
+0,/Game/Vehicles/SportsCar/kart_skel,/Script/Engine.SkeletalMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,133446,None
+0,/Game/Vehicles/SportsCar/mat_10_002,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,23245,None
+0,/Game/Vehicles/SportsCar/mat_11_002,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,23245,None
+0,/Game/Vehicles/SportsCar/mat_3_002,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,23242,None
+0,/Game/Vehicles/SportsCar/mat_4_002,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,23242,None
+0,/Game/Vehicles/SportsCar/mat_4_005,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,23242,None
+0,/Game/Vehicles/SportsCar/mat_5_002,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,23242,None
+0,/Game/Vehicles/SportsCar/Materials/Functions/ML_BaseColorFallOff,/Script/Engine.MaterialFunction,Soft: Unknown reference chain. Soft From Unassigned Package?,760,None
+0,/Game/Vehicles/SportsCar/Materials/M_SportsCar,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,30270,None
+0,/Game/Vehicles/SportsCar/Materials/M_SportsCar_Lights,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,38433,None
+0,/Game/Vehicles/SportsCar/Materials/M_SportsCar_Wheel,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,25317,None
+0,/Game/Vehicles/SportsCar/Materials/MI_SportsCar_Body,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,1102,None
+0,/Game/Vehicles/SportsCar/Materials/MI_SportsCar_Chassis,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,30677,None
+0,/Game/Vehicles/SportsCar/Materials/MI_SportsCar_Tire,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,1846,None
+0,/Game/Vehicles/SportsCar/Materials/MI_SportsCar_Wheel,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,1194,None
+0,/Game/Vehicles/SportsCar/Materials/Textures/T_SportsCar_Body_ASAOP_M,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,11186502,None
+0,/Game/Vehicles/SportsCar/Materials/Textures/T_SportsCar_Body_BC,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,11186481,None
+0,/Game/Vehicles/SportsCar/Materials/Textures/T_SportsCar_Body_BotN,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,22371318,None
+0,/Game/Vehicles/SportsCar/Materials/Textures/T_SportsCar_Body_CCRCCPlastic_M,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,11186523,None
+0,/Game/Vehicles/SportsCar/Materials/Textures/T_SportsCar_Body_MSR_M,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,11186496,None
+0,/Game/Vehicles/SportsCar/Materials/Textures/T_SportsCar_Body_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,22371309,None
+0,/Game/Vehicles/SportsCar/Materials/Textures/T_SportsCar_Body_Tan,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,22371315,None
+0,/Game/Vehicles/SportsCar/Materials/Textures/T_SportsCar_Chassis_ASAOP_M,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,11186511,None
+0,/Game/Vehicles/SportsCar/Materials/Textures/T_SportsCar_Chassis_BC,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,11186490,None
+0,/Game/Vehicles/SportsCar/Materials/Textures/T_SportsCar_Chassis_BotN,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,22371327,None
+0,/Game/Vehicles/SportsCar/Materials/Textures/T_SportsCar_Chassis_CCRCCPlastic_M,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,11186532,None
+0,/Game/Vehicles/SportsCar/Materials/Textures/T_SportsCar_Chassis_MSR_M,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,11186505,None
+0,/Game/Vehicles/SportsCar/Materials/Textures/T_SportsCar_Lights_M,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,2797822,None
+0,/Game/Vehicles/SportsCar/Materials/Textures/T_SportsCar_Tire_M_TGA,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,351038,None
+0,/Game/Vehicles/SportsCar/Materials/Textures/T_SportsCar_Tire_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,351033,None
+0,/Game/Vehicles/SportsCar/Materials/Textures/T_SportsCar_Wheel_BC,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,2797816,None
+0,/Game/Vehicles/SportsCar/Materials/Textures/T_SportsCar_Wheel_M,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,2797819,None
+0,/Game/Vehicles/SportsCar/Materials/Textures/T_SportsCar_Wheel_N,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,5594036,None
+0,/Game/Vehicles/SportsCar/SKM_SportsCar,/Script/Engine.SkeletalMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,2618777,None
+0,/Game/Vehicles/SportsCar/SportsCar_AnimBP,/Script/Engine.AnimBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,8871,None
+0,/Game/Vehicles/SportsCar/SportsCar_AnimBP,/Script/Engine.AnimBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,8871,None
+0,/Game/Vehicles/SportsCar/SportsCar_CtrlRig,/Script/ControlRigDeveloper.ControlRigBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,24768,None
+0,/Game/Vehicles/SportsCar/SportsCar_CtrlRig,/Script/ControlRig.ControlRigBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,24768,None
+0,/Game/Vehicles/SportsCar/SportsCar_PhysicsAsset,/Script/Engine.PhysicsAsset,Soft: Unknown reference chain. Soft From Unassigned Package?,12672,None
+0,/Game/Vehicles/SportsCar/SportsCar_Skeleton,/Script/Engine.Skeleton,Soft: Unknown reference chain. Soft From Unassigned Package?,1116,None
+0,/Game/Vehicles/SportsCar/StaticMesh,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,579987,None
+0,/Game/Vehicles/test_car/bluecornet,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,700534,None
+0,/Game/Vehicles/test_car/bluecornettracks,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,12244,None
+0,/Game/Vehicles/test_car/chuckice,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,700528,None
+0,/Game/Vehicles/test_car/mat_10_001,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,42653,None
+0,/Game/Vehicles/test_car/mat_11_001,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,42653,None
+0,/Game/Vehicles/test_car/mat_3_001,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,42650,None
+0,/Game/Vehicles/test_car/mat_4_001,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,42662,None
+0,/Game/Vehicles/test_car/mat_4_004,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,26606,None
+0,/Game/Vehicles/test_car/mat_5_001,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,42650,None
+0,/Game/Vehicles/test_car/obje/bluecornet1_mat_10_001,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,14695,None
+0,/Game/Vehicles/test_car/obje/bluecornet1_mat_11_001,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,14695,None
+0,/Game/Vehicles/test_car/obje/bluecornet1_mat_3_001,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,14692,None
+0,/Game/Vehicles/test_car/obje/bluecornet1_mat_4_001,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,14692,None
+0,/Game/Vehicles/test_car/obje/bluecornet1_mat_4_004,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,14692,None
+0,/Game/Vehicles/test_car/obje/bluecornet1_mat_5_001,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,14692,None
+0,/Game/Vehicles/test_car/obje/initialShadingGroup,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,15008,None
+0,/Game/Vehicles/test_car/obje/kart_resize,/Script/Engine.StaticMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,762613,None
+0,/Game/Vehicles/test_car/obje/TEX_bluecornet,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,700556,None
+0,/Game/Vehicles/test_car/obje/TEX_bluecornettracks,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,12266,None
+0,/Game/Vehicles/test_car/TEX_bluecornet,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,700546,None
+0,/Game/Vehicles/test_car/TEX_bluecornettracks,/Script/Engine.Texture2D,Soft: Unknown reference chain. Soft From Unassigned Package?,12256,None
+0,/Game/VehicleTemplate/Blueprints/countdown/BP_InvWall,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,6843,None
+0,/Game/VehicleTemplate/Blueprints/countdown/BP_InvWall,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,6843,None
+0,/Game/VehicleTemplate/Blueprints/countdown/WBP_countdown,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,11372,None
+0,/Game/VehicleTemplate/Blueprints/countdown/WBP_countdown,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,11372,None
+0,/Game/VehicleTemplate/Blueprints/Kart3/chasis,/Script/Engine.SkeletalMesh,Soft: Unknown reference chain. Soft From Unassigned Package?,248661,None
+0,/Game/VehicleTemplate/Blueprints/Kart3/chasis_PhysicsAsset,/Script/Engine.PhysicsAsset,Soft: Unknown reference chain. Soft From Unassigned Package?,1124,None
+0,/Game/VehicleTemplate/Blueprints/Kart3/Kart3,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,41350,None
+0,/Game/VehicleTemplate/Blueprints/Kart3/Kart3,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,41350,None
+0,/Game/VehicleTemplate/Blueprints/kart_test1,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,36070,None
+0,/Game/VehicleTemplate/Blueprints/kart_test1,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,36070,None
+0,/Game/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_Pawn,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,8768,None
+0,/Game/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_Pawn,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,8768,None
+0,/Game/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_TorqueCurve,/Script/Engine.CurveFloat,Soft: Unknown reference chain. Soft From Unassigned Package?,880,None
+0,/Game/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_WheelsFront,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,1413,None
+0,/Game/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_WheelsFront,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,1413,None
+0,/Game/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_WheelsRear,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,1403,None
+0,/Game/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_WheelsRear,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,1403,None
+0,/Game/VehicleTemplate/Blueprints/OffroadGameMode,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,3414,None
+0,/Game/VehicleTemplate/Blueprints/OffroadGameMode,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,3414,None
+0,/Game/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,6117,None
+0,/Game/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,6117,None
+0,/Game/VehicleTemplate/Blueprints/SportsCar/SportsCar_TorqueCurve,/Script/Engine.CurveFloat,Soft: Unknown reference chain. Soft From Unassigned Package?,875,None
+0,/Game/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsFront,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,1377,None
+0,/Game/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsFront,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,1377,None
+0,/Game/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsRear,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,1377,None
+0,/Game/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsRear,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,1377,None
+0,/Game/VehicleTemplate/Blueprints/timer/BP_PauseTimer,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,8081,None
+0,/Game/VehicleTemplate/Blueprints/timer/BP_PauseTimer,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,8081,None
+0,/Game/VehicleTemplate/Blueprints/timer/Timer,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,9566,None
+0,/Game/VehicleTemplate/Blueprints/timer/Timer,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,9566,None
+0,/Game/VehicleTemplate/Blueprints/timer/WinScreen,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,14596,None
+0,/Game/VehicleTemplate/Blueprints/timer/WinScreen,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,14596,None
+0,/Game/VehicleTemplate/Blueprints/VehicleAdvGameMode,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,3365,None
+0,/Game/VehicleTemplate/Blueprints/VehicleAdvGameMode,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,3365,None
+0,/Game/VehicleTemplate/Blueprints/VehicleAdvPawn,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,41332,None
+0,/Game/VehicleTemplate/Blueprints/VehicleAdvPawn,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,41332,None
+0,/Game/VehicleTemplate/Blueprints/VehiclePlayerController,/Script/Engine.Blueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,7621,None
+0,/Game/VehicleTemplate/Blueprints/VehiclePlayerController,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,7621,None
+0,/Game/VehicleTemplate/Blueprints/VehicleUI,/Script/UMGEditor.WidgetBlueprint,Soft: Unknown reference chain. Soft From Unassigned Package?,15997,None
+0,/Game/VehicleTemplate/Blueprints/VehicleUI,/Script/UMG.WidgetBlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,15997,None
+0,/Game/VehicleTemplate/Input/Actions/IA_Boost,/Script/EnhancedInput.InputAction,Soft: Unknown reference chain. Soft From Unassigned Package?,690,None
+0,/Game/VehicleTemplate/Input/Actions/IA_Brake,/Script/EnhancedInput.InputAction,Soft: Unknown reference chain. Soft From Unassigned Package?,1217,None
+0,/Game/VehicleTemplate/Input/Actions/IA_Handbrake,/Script/EnhancedInput.InputAction,Soft: Unknown reference chain. Soft From Unassigned Package?,1226,None
+0,/Game/VehicleTemplate/Input/Actions/IA_LookAround,/Script/EnhancedInput.InputAction,Soft: Unknown reference chain. Soft From Unassigned Package?,706,None
+0,/Game/VehicleTemplate/Input/Actions/IA_Reset,/Script/EnhancedInput.InputAction,Soft: Unknown reference chain. Soft From Unassigned Package?,953,None
+0,/Game/VehicleTemplate/Input/Actions/IA_Steering,/Script/EnhancedInput.InputAction,Soft: Unknown reference chain. Soft From Unassigned Package?,700,None
+0,/Game/VehicleTemplate/Input/Actions/IA_Throttle,/Script/EnhancedInput.InputAction,Soft: Unknown reference chain. Soft From Unassigned Package?,700,None
+0,/Game/VehicleTemplate/Input/Actions/IA_ToggleCamera,/Script/EnhancedInput.InputAction,Soft: Unknown reference chain. Soft From Unassigned Package?,974,None
+0,/Game/VehicleTemplate/Input/IMC_Default,/Script/EnhancedInput.InputMappingContext,Soft: Unknown reference chain. Soft From Unassigned Package?,3491,None
+0,/Game/VehicleTemplate/Maps/VehicleExampleMap,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,12253286,None
+0,/Game/VehicleTemplate/Maps/VehicleExampleMap,/Script/Engine.BlueprintGeneratedClass,Soft: Unknown reference chain. Soft From Unassigned Package?,12253286,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,382292024,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/02W0H60F25FBRZX7J2QKK65KI,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/07897PU45H1VHQUXYC447MMWZ,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601355,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/0A14CGT1G5AUNIEO0RD6LK1G4,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/0KM5C5FCYFS7BNAPMLSTBC8ZX,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/14SB48ECRC4C760PP8HUTE0F4,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/1DHPLEI0XPLH9F2XE2FZR31XZ,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/1J9H26GGN87FAGE5CE48K5YH3,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/1N9RMPSRWN4ZMPAYHN7FKNDGU,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,604252,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/1RKIKRZC9LETZALME88J1HS4I,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/1SXNYQSDGOXWF4E900LX00SAO,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601385,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/27DWF7D4Q7YTWSDN7NFH6OSMB,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601377,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/29NF725H5SU7FKL2S40K12O09,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601377,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/2A1XLKZDJFBHD6XPI5B1SZIES,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/30M1DZ7WX4D0XXQUXFINJDIGO,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/33IV3HPBHTQZ25QDYS0722XD9,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601385,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/35ZAZVM2C89YTB3Y6LRCD8CXC,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601385,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/3FT0YG0A8B9C19LZBARUOY3JN,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601385,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/3IRWFS2R52YUIVPTFB2YJ29D2,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/3L7FFPNSJU6LBXTQCL5C9KY22,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/3LZEUPC6DVW31U4GVHG3M97VR,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/3QS0CKX778GGE92DJRO0XAX18,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/3ZZ13BUDYV21VU9G351D7W69H,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/4WX5IYWWXN4L0VEHH44198W8M,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/4YG0LAHYJFX94MMUV1U1H1GGS,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/5FBTV6QFRVBU0KL6089F7AQQS,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/5OR0K95V476K9IVRCUQ379P0U,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601377,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/5SRDNZPNULEYI4YLCR5DQB22K,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601377,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/5WDPFX674TU1B43NTTPNT6N7B,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/5WPL32YUNG5TDBI5TXMTGVEV5,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/6H4LVQEAGW64Z9KCGA46UGDYZ,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/6MQ8ZQEYF9G6N92SKG7PG7WVF,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,3331,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/6NL6RLS123P7BRKW6AKRUEATE,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/6TW8V50TO3SHAURKV7DKEXUN8,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/796A6N7C8GA6HSR6G7GZ6F9LE,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/7JX21D9AWZ4WLZD91Y2USPK6C,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/7YPA6TW8N0DYYK4R8RX8D5G8I,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/8275DBNUI6LS0M49L0QVXZE2P,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/8CWQ3ADMBABZ95ZZI1XOM2H1V,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/97FS2423KAZKPUCX2M4QH82T7,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/9I7EBCR9QTN0LHRZX6YHHJT07,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/9MSNLYQXMNEWV0VWQ25BTKSBW,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601377,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/9QV9QR6MAIGRXLWR0V9CUR62I,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/9R4DG2UXWLOT9PFUW8VSBQY8L,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/9YGOS9TE4F7CTGSG2OVUG3NI1,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/9Z27WDY52QKSRVMMW6XEXUWWQ,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/A0RSX1Y80R3F2ER2N9296P85L,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/A5VO2LGMMQILI5NBPG3ASR4D1,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601385,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/A6XWSVJJDO42JV81OUQHMPPVV,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/B8H4WQE8BVYFR7O4RMHDCJ1G5,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,602602,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/BHPXEE8XPT5B2CFA6X4V0EBKF,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/BTEJH5NGW6RF59TGILEEBK6I0,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601377,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/C581SWRPUNQACPHKROMWK5JWU,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601385,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/C6HRMPYX2DIVOWHGNWH7LB5NZ,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/CC6FV42L1FAD9EANEV0JSH56O,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/CKPICKZU6UM2AQT37GKW1HFJD,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601385,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/CPENKO3XRS91MRXUHXAQUMS98,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,603415,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/CZPOC3G5DAM5H3UT0CW7M07IZ,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/DECSKW366OLG520RZIGTOIPQ1,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/DNZHQFXT8R5CO30PVFHG0SS20,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/E7ZM2N4LJI0OYEVA9L9P00M9H,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/EBOINYDX0QDUMUZTBLV4Z43K2,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/EL9VQ8JPD08E7HYDJBFIWPXI8,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,602014,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/EN4HL8RD63MIZ3E9M9I2PQALN,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/EONWOQUWDRN57815M12F26CRB,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601377,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap/_Generated_/ESTW57633G6J8DD123L5CIGXE,/Script/Engine.World,Soft: Unknown reference chain. Soft From Unassigned Package?,601393,None
+0,/Game/VehicleTemplate/Maps/VehicleOffroadExampleMap_HLOD0_Instancing,/Script/Engine.HLODLayer,Soft: Unknown reference chain. Soft From Unassigned Package?,1116,None
+0,/Interchange/Functions/MF_Iridescence,/Script/Engine.MaterialFunction,Hard,704,None
+0,/Interchange/Functions/MF_OrenNayerView,/Script/Engine.MaterialFunction,Soft: Unknown reference chain. Soft From Unassigned Package?,710,None
+0,/Interchange/Functions/MF_PhongToMetalRoughness,/Script/Engine.MaterialFunction,Soft: Unknown reference chain. Soft From Unassigned Package?,731,None
+0,/Interchange/Functions/MF_SchlickApprox,/Script/Engine.MaterialFunction,Soft: Unknown reference chain. Soft From Unassigned Package?,710,None
+0,/Interchange/Functions/MX_AbsorptionVDF,/Script/Engine.MaterialFunction,Soft: Unknown reference chain. Soft From Unassigned Package?,757,None
+0,/Interchange/Functions/MX_AnisotropicVDF,/Script/Engine.MaterialFunction,Soft: Unknown reference chain. Soft From Unassigned Package?,917,None
+0,/Interchange/Functions/MX_BurleyDiffuseBSDF,/Script/Engine.MaterialFunction,Soft: Unknown reference chain. Soft From Unassigned Package?,829,None
+0,/Interchange/Functions/MX_ConductorBSDF,/Script/Engine.MaterialFunction,Soft: Unknown reference chain. Soft From Unassigned Package?,963,None
+0,/Interchange/Functions/MX_ConicalEDF,/Script/Engine.MaterialFunction,Soft: Unknown reference chain. Soft From Unassigned Package?,780,None
+0,/Interchange/Functions/MX_DielectricBSDF,/Script/Engine.MaterialFunction,Soft: Unknown reference chain. Soft From Unassigned Package?,1283,None
+0,/Interchange/Functions/MX_GeneralizedSchlickBSDF,/Script/Engine.MaterialFunction,Soft: Unknown reference chain. Soft From Unassigned Package?,1308,None
+0,/Interchange/Functions/MX_MeasuredEDF,/Script/Engine.MaterialFunction,Soft: Unknown reference chain. Soft From Unassigned Package?,783,None
+0,/Interchange/Functions/MX_OpenPBR_Opaque,/Script/Engine.MaterialFunction,Soft: Unknown reference chain. Soft From Unassigned Package?,837,None
+0,/Interchange/Functions/MX_OpenPBR_Translucent,/Script/Engine.MaterialFunction,Soft: Unknown reference chain. Soft From Unassigned Package?,852,None
+0,/Interchange/Functions/MX_OrenNayarBSDF,/Script/Engine.MaterialFunction,Soft: Unknown reference chain. Soft From Unassigned Package?,842,None
+0,/Interchange/Functions/MX_SheenBSDF,/Script/Engine.MaterialFunction,Soft: Unknown reference chain. Soft From Unassigned Package?,937,None
+0,/Interchange/Functions/MX_StandardSurface,/Script/Engine.MaterialFunction,Soft: Unknown reference chain. Soft From Unassigned Package?,716,None
+0,/Interchange/Functions/MX_SubsurfaceBSDF,/Script/Engine.MaterialFunction,Soft: Unknown reference chain. Soft From Unassigned Package?,1193,None
+0,/Interchange/Functions/MX_Surface,/Script/Engine.MaterialFunction,Soft: Unknown reference chain. Soft From Unassigned Package?,1374,None
+0,/Interchange/Functions/MX_SurfaceUnlit,/Script/Engine.MaterialFunction,Soft: Unknown reference chain. Soft From Unassigned Package?,874,None
+0,/Interchange/Functions/MX_ThinFilmBSDF,/Script/Engine.MaterialFunction,Soft: Unknown reference chain. Soft From Unassigned Package?,909,None
+0,/Interchange/Functions/MX_TranslucentBSDF,/Script/Engine.MaterialFunction,Soft: Unknown reference chain. Soft From Unassigned Package?,811,None
+0,/Interchange/Functions/MX_Transmission,/Script/Engine.MaterialFunction,Soft: Unknown reference chain. Soft From Unassigned Package?,707,None
+0,/Interchange/Functions/MX_TransmissionSurface,/Script/Engine.MaterialFunction,Soft: Unknown reference chain. Soft From Unassigned Package?,728,None
+0,/Interchange/Functions/MX_UniformEDF,/Script/Engine.MaterialFunction,Soft: Unknown reference chain. Soft From Unassigned Package?,766,None
+0,/Interchange/Functions/MX_UsdPreviewSurface,/Script/Engine.MaterialFunction,Soft: Unknown reference chain. Soft From Unassigned Package?,722,None
+0,/Interchange/gltf/M_ClearCoat,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,47053,None
+0,/Interchange/gltf/M_Default,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,41593,None
+0,/Interchange/gltf/M_Sheen,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,45286,None
+0,/Interchange/gltf/M_SpecularGlossiness,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,34956,None
+0,/Interchange/gltf/M_Transmission,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,57306,None
+0,/Interchange/gltf/M_Unlit,/Script/Engine.Material,Soft: Unknown reference chain. Soft From Unassigned Package?,11715,None
+0,/Interchange/gltf/MaterialBodies/MF_ClearCoat_Body,/Script/Engine.MaterialFunction,Hard,730,None
+0,/Interchange/gltf/MaterialBodies/MF_Default_Body,/Script/Engine.MaterialFunction,Hard,724,None
+0,/Interchange/gltf/MaterialBodies/MF_Sheen_Body,/Script/Engine.MaterialFunction,Hard,718,None
+0,/Interchange/gltf/MaterialBodies/MF_SpecularGlossiness_Body,/Script/Engine.MaterialFunction,Hard,757,None
+0,/Interchange/gltf/MaterialBodies/MF_Transmission_Body,/Script/Engine.MaterialFunction,Hard,739,None
+0,/Interchange/gltf/MaterialBodies/MF_Unlit_Body,/Script/Engine.MaterialFunction,Hard,718,None
+0,/Interchange/gltf/MaterialFunctions/MF_BaseColor,/Script/Engine.MaterialFunction,Hard,721,None
+0,/Interchange/gltf/MaterialFunctions/MF_Clearcoat,/Script/Engine.MaterialFunction,Hard,721,None
+0,/Interchange/gltf/MaterialFunctions/MF_DiffuseSpecGloss,/Script/Engine.MaterialFunction,Hard,742,None
+0,/Interchange/gltf/MaterialFunctions/MF_Emissive,/Script/Engine.MaterialFunction,Hard,718,None
+0,/Interchange/gltf/MaterialFunctions/MF_Fresnel_DS,/Script/Engine.MaterialFunction,Hard,724,None
+0,/Interchange/gltf/MaterialFunctions/MF_IOR,/Script/Engine.MaterialFunction,Hard,703,None
+0,/Interchange/gltf/MaterialFunctions/MF_Iridescence,/Script/Engine.MaterialFunction,Hard,727,None
+0,/Interchange/gltf/MaterialFunctions/MF_MetallicRoughness,/Script/Engine.MaterialFunction,Hard,745,None
+0,/Interchange/gltf/MaterialFunctions/MF_Normals,/Script/Engine.MaterialFunction,Hard,715,None
+0,/Interchange/gltf/MaterialFunctions/MF_Occlusion,/Script/Engine.MaterialFunction,Hard,721,None
+0,/Interchange/gltf/MaterialFunctions/MF_PerceivedBrightness,/Script/Engine.MaterialFunction,Hard,849,None
+0,/Interchange/gltf/MaterialFunctions/MF_RotateNormals_TS,/Script/Engine.MaterialFunction,Hard,742,None
+0,/Interchange/gltf/MaterialFunctions/MF_RotateV2,/Script/Engine.MaterialFunction,Hard,718,None
+0,/Interchange/gltf/MaterialFunctions/MF_Sheen,/Script/Engine.MaterialFunction,Hard,709,None
+0,/Interchange/gltf/MaterialFunctions/MF_SpecGlossToMetalRoughness,/Script/Engine.MaterialFunction,Hard,899,None
+0,/Interchange/gltf/MaterialFunctions/MF_Specular,/Script/Engine.MaterialFunction,Hard,718,None
+0,/Interchange/gltf/MaterialFunctions/MF_Temporal_Blur,/Script/Engine.MaterialFunction,Hard,736,None
+0,/Interchange/gltf/MaterialFunctions/MF_TransformUVs,/Script/Engine.MaterialFunction,Hard,730,None
+0,/Interchange/gltf/MaterialFunctions/MF_Transmission,/Script/Engine.MaterialFunction,Hard,730,None
+0,/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,52509,None
+0,/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend_DS,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,55252,None
+0,/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,62769,None
+0,/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask_DS,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,62768,None
+0,/Interchange/gltf/MaterialInstances/MI_ClearCoat_Opaque,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,1079,None
+0,/Interchange/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,43805,None
+0,/Interchange/gltf/MaterialInstances/MI_Default_Blend,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,49067,None
+0,/Interchange/gltf/MaterialInstances/MI_Default_Blend_DS,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,51810,None
+0,/Interchange/gltf/MaterialInstances/MI_Default_Mask,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,59103,None
+0,/Interchange/gltf/MaterialInstances/MI_Default_Mask_DS,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,59102,None
+0,/Interchange/gltf/MaterialInstances/MI_Default_Opaque,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,1068,None
+0,/Interchange/gltf/MaterialInstances/MI_Default_Opaque_DS,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,40137,None
+0,/Interchange/gltf/MaterialInstances/MI_Sheen_Blend,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,51428,None
+0,/Interchange/gltf/MaterialInstances/MI_Sheen_Blend_DS,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,54171,None
+0,/Interchange/gltf/MaterialInstances/MI_Sheen_Mask,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,61688,None
+0,/Interchange/gltf/MaterialInstances/MI_Sheen_Mask_DS,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,61687,None
+0,/Interchange/gltf/MaterialInstances/MI_Sheen_Opaque,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,1059,None
+0,/Interchange/gltf/MaterialInstances/MI_Sheen_Opaque_DS,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,42796,None
+0,/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,44348,None
+0,/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,47091,None
+0,/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,54384,None
+0,/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,54383,None
+0,/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,1123,None
+0,/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,35418,None
+0,/Interchange/gltf/MaterialInstances/MI_Transmission,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,1074,None
+0,/Interchange/gltf/MaterialInstances/MI_Transmission_DS,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,51953,None
+0,/Interchange/gltf/MaterialInstances/MI_Unlit_Blend,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,17660,None
+0,/Interchange/gltf/MaterialInstances/MI_Unlit_Blend_DS,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,20403,None
+0,/Interchange/gltf/MaterialInstances/MI_Unlit_Mask,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,33519,None
+0,/Interchange/gltf/MaterialInstances/MI_Unlit_Mask_DS,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,33518,None
+0,/Interchange/gltf/MaterialInstances/MI_Unlit_Opaque,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,985,None
+0,/Interchange/gltf/MaterialInstances/MI_Unlit_Opaque_DS,/Script/Engine.MaterialInstanceConstant,Soft: Unknown reference chain. Soft From Unassigned Package?,16249,None
+0,/Interchange/gltf/Textures/T_Generic_N,/Script/Engine.Texture2D,Hard,900,None
+0,/Interchange/gltf/Textures/T_White_Linear,/Script/Engine.Texture2D,Hard,903,None
+0,/Interchange/gltf/Textures/T_White_srgb,/Script/Engine.Texture2D,Hard,894,None
+0,/Interchange/Pipelines/DefaultAssetsPipeline,/Script/InterchangePipelines.InterchangeGenericAssetsPipeline,Soft: Unknown reference chain. Soft From Unassigned Package?,11873,None
+0,/Interchange/Pipelines/DefaultGLTFAssetsPipeline,/Script/InterchangePipelines.InterchangeGenericAssetsPipeline,Soft: Unknown reference chain. Soft From Unassigned Package?,11891,None
+0,/Interchange/Pipelines/DefaultGLTFPipeline,/Script/InterchangePipelines.InterchangeGLTFPipeline,Soft: Unknown reference chain. Soft From Unassigned Package?,944,None
+0,/Interchange/Pipelines/DefaultGLTFSceneAssetsPipeline,/Script/InterchangePipelines.InterchangeGenericAssetsPipeline,Soft: Unknown reference chain. Soft From Unassigned Package?,11704,None
+0,/Interchange/Pipelines/DefaultMaterialPipeline,/Script/InterchangePipelines.InterchangeGenericMaterialPipeline,Soft: Unknown reference chain. Soft From Unassigned Package?,2112,None
+0,/Interchange/Pipelines/DefaultMaterialXPipeline,/Script/InterchangePipelines.InterchangeMaterialXPipeline,Soft: Unknown reference chain. Soft From Unassigned Package?,865,None
+0,/Interchange/Pipelines/DefaultSceneAssetsPipeline,/Script/InterchangePipelines.InterchangeGenericAssetsPipeline,Soft: Unknown reference chain. Soft From Unassigned Package?,11578,None
+0,/Interchange/Pipelines/DefaultSceneLevelPipeline,/Script/InterchangePipelines.InterchangeGenericLevelPipeline,Soft: Unknown reference chain. Soft From Unassigned Package?,2065,None
+0,/Interchange/Pipelines/DefaultTexturePipeline,/Script/InterchangePipelines.InterchangeGenericTexturePipeline,Soft: Unknown reference chain. Soft From Unassigned Package?,1705,None
+0,/Interchange/Utilities/New_LUT,/Script/Engine.Texture2D,Hard,36361650,None
+0,/MediaPlate/SM_MediaPlateScreen,/Script/Engine.StaticMesh,Hard,10766,None
+0,/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor,/Script/Engine.Material,Hard,19600,None
+0,/Paper2D/DefaultPaperTerrainMaterial,/Script/Paper2D.PaperTerrainMaterial,Hard,862,None
+0,/Paper2D/DefaultSpriteMaterial,/Script/Engine.Material,Hard,31844,None
+0,/Paper2D/DummySprite,/Script/Paper2D.PaperSprite,Hard,1444,None
+0,/Paper2D/MaskedUnlitSpriteMaterial,/Script/Engine.MaterialInstanceConstant,Hard,949,None
+0,/Paper2D/OpaqueUnlitSpriteMaterial,/Script/Engine.MaterialInstanceConstant,Hard,14872,None
+0,/Paper2D/PlaceholderTextures/DummySpriteTexture,/Script/Engine.Texture2D,Hard,23196,None
+0,/SpeedTreeImporter/SpeedTree9/Empty,/Script/Engine.Texture2D,Hard,1035,None
+0,/SpeedTreeImporter/SpeedTree9/EmptyNormal,/Script/Engine.Texture2D,Hard,1035,None
+0,/SpeedTreeImporter/SpeedTree9/game_wind_noise,/Script/Engine.Texture2D,Hard,1399551,None
+0,/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboard,/Script/Engine.MaterialFunction,Hard,727,None
+0,/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster,/Script/Engine.Material,Hard,54158,None
+0,/SpeedTreeImporter/SpeedTree9/SpeedTreeBranchMotion,/Script/Engine.MaterialFunction,Hard,736,None
+0,/SpeedTreeImporter/SpeedTree9/SpeedTreeCameraFacing,/Script/Engine.MaterialFunction,Hard,739,None
+0,/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster,/Script/Engine.Material,Hard,74521,None
+0,/SpeedTreeImporter/SpeedTree9/SpeedTreeWind,/Script/Engine.MaterialFunction,Hard,715,None
+0,/SpeedTreeImporter/SpeedTree9/SpeedTreeWindMotion,/Script/Engine.MaterialFunction,Hard,763,None
+0,/SpeedTreeImporter/SpeedTree9/UnpackDirection,/Script/Engine.MaterialFunction,Hard,721,None
+0,/SpeedTreeImporter/SpeedTree9/UnpackInteger3,/Script/Engine.MaterialFunction,Hard,715,None

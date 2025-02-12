@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\github\\juego\\penguin\\intermediate\\source\\penguin.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\github\\juego\\penguin\\intermediate\\build\\win64\\x64\\penguin\\shipping\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "e:\\github\\juego\\penguin\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\penguin\\definitions.penguin.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
