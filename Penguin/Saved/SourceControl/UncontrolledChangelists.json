@@ -7,6 +7,12 @@
 			"files": [
 				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/BasicShapes/Plane.uasset",
 				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"D:/landscapecherry/LANDSCAPEcherry/Juego/Penguin/Content/VehicleTemplate/Blueprints/True_kart3/delantera_der.uasset",
+				"D:/landscapecherry/LANDSCAPEcherry/Juego/Penguin/Content/VehicleTemplate/Blueprints/True_kart3/delantera_iz.uasset",
+				"D:/landscapecherry/LANDSCAPEcherry/Juego/Penguin/Content/VehicleTemplate/Blueprints/True_kart3/trasera_der.uasset",
+				"D:/landscapecherry/LANDSCAPEcherry/Juego/Penguin/Content/VehicleTemplate/Blueprints/True_kart3/trasera_iz.uasset",
+				"D:/landscapecherry/LANDSCAPEcherry/Juego/Penguin/Content/VehicleTemplate/Input/IMC_Default.uasset",
+				"D:/landscapecherry/LANDSCAPEcherry/Juego/Penguin/Content/VehicleTemplate/Blueprints/Kart3/Kart3.uasset",
 				"D:/git/Juego/Penguin/Content/__ExternalActors__/Levels/Level1/D/0H/AO3QM10PBVUMLIOA1CU6FH.uasset",
 				"D:/git/Juego/Penguin/Content/__ExternalActors__/Levels/Level1/E/RZ/IQ1JO9FT0D9VMNUQBYB5JZ.uasset",
 				"D:/git/Juego/Penguin/Content/VehicleTemplate/Blueprints/True_kart3/NewMaterial.uasset",
