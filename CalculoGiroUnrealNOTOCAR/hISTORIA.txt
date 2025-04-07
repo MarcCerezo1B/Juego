@@ -1,0 +1,6 @@
+GT= giro total
+25= radio de giro max
+DT= Delta time
+S= segundos calculados por mi de tiempo de giro
+X= total de "25" * "DT" / "S"
+Steering=  valor guardado en A o D
