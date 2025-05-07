@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\AlumnoM\\Desktop\\PINGUS\\Juego\\Penguin\\Intermediate\\Source\\Penguin.Build.cs",
+		"C:\\Users\\AlumnoM\\Desktop\\PINGUS\\Juego\\Penguin\\Intermediate\\Source\\Penguin.Target.cs",
+		"C:\\Users\\AlumnoM\\Desktop\\PINGUS\\Juego\\Penguin\\Intermediate\\Source\\PenguinClient.Target.cs",
+		"C:\\Users\\AlumnoM\\Desktop\\PINGUS\\Juego\\Penguin\\Intermediate\\Source\\PenguinEditor.Target.cs",
+		"C:\\Users\\AlumnoM\\Desktop\\PINGUS\\Juego\\Penguin\\Intermediate\\Source\\PenguinServer.Target.cs"
+	],
+	"EngineVersion": "5.4.2"
+}
