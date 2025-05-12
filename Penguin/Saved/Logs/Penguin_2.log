@@ -5580,3 +5580,26 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.05.12-15.05.17:125][229]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000053BD4ED3D80) on the [0x0000053AF97EE380, 3D] queue has not completed after 5.050362 seconds.
 [2025.05.12-15.05.17:126][229]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000053BD4ED2580) on the [0x0000053AF97EE380, 3D] queue has not completed after 5.048261 seconds.
 [2025.05.12-15.05.17:126][229]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000053BD4ED1080) on the [0x0000053AF97EE380, 3D] queue has not completed after 5.047003 seconds.
+[2025.05.12-15.07.10:541][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.05.12-15.07.12:654][895]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2025.05.12-15.07.12:691][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.05.12-15.07.14:373][895]LogSlate: Window 'Save Content' being destroyed
+[2025.05.12-15.07.14:385][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.12-15.07.14:418][895]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VehicleTemplate/Blueprints/Kart3/Kart3] ([2] browsable assets)...
+[2025.05.12-15.07.14:464][895]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VehicleTemplate/Blueprints/Kart3/Kart3.Kart3]
+[2025.05.12-15.07.14:464][895]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleTemplate/Blueprints/Kart3/Kart3]
+[2025.05.12-15.07.14:464][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleTemplate/Blueprints/Kart3/Kart3" FILE="../../../../github/Juego/Penguin/Content/VehicleTemplate/Blueprints/Kart3/Kart3.uasset" SILENT=true
+[2025.05.12-15.07.14:507][895]LogSavePackage: Moving output files for package: /Game/VehicleTemplate/Blueprints/Kart3/Kart3
+[2025.05.12-15.07.14:508][895]LogSavePackage: Moving '../../../../github/Juego/Penguin/Saved/Kart3093A3DB54D11FDD4EFD0269FA525CD11.tmp' to '../../../../github/Juego/Penguin/Content/VehicleTemplate/Blueprints/Kart3/Kart3.uasset'
+[2025.05.12-15.07.14:518][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 132.565 ms (total: 1.89 sec)
+[2025.05.12-15.07.14:589][896]LogContentValidation: Display: Starting to validate 1 assets
+[2025.05.12-15.07.14:589][896]LogContentValidation: Enabled validators:
+[2025.05.12-15.07.14:589][896]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.05.12-15.07.14:589][896]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.05.12-15.07.14:589][896]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.05.12-15.07.14:589][896]LogContentValidation: Display: Validating asset /Game/VehicleTemplate/Blueprints/Kart3/Kart3.Kart3
+[2025.05.12-15.07.14:589][896]AssetCheck: /Game/VehicleTemplate/Blueprints/Kart3/Kart3 Validating asset
+[2025.05.12-15.07.46:199][ 78]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000053BD4ED4800) on the [0x0000053AF97EE380, 3D] queue has not completed after 5.000063 seconds.
+[2025.05.12-15.09.07:789][944]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2057.260010
+[2025.05.12-15.09.07:953][953]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.12-15.09.07:953][953]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2057.407471, Update Interval: 337.977234
